@@ -22,7 +22,7 @@ export default async function Home() {
         <br />
         <br />
         The{" "}
-        <a className="underline" href="#">
+        <a className="underline" href="https://github.com/vnglst/vondel-correspondence">
           code
         </a>{" "}
         for this project is available on GitHub.
