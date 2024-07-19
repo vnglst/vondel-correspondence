@@ -16,7 +16,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        {children}
+        <footer className="bg-slate-900 text-white text-center p-4">
+          Made with GPT-4o by <a href="https://koenvangilst.nl">Koen van Gilst</a>
+        </footer>
+      </body>
     </html>
   );
 }

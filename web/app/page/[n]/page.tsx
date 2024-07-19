@@ -26,16 +26,12 @@ export default async function Page({ params }: { params: { n: string } }) {
 
   return (
     <main className="flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24">
-      <nav className="flex flex-col lg:flex-row justify-between w-full mb-4">
+      <nav className="flex flex-col lg:flex-row justify-between w-full mb-4 italic bg-slate-300 p-4 text-sm">
         {connectedLetterId ? <Link href={`/letter/${connectedLetterId}`}>← Go to letter</Link> : null}
-        <div className="flex flex-row justify-between">
-          <Link href={`/page/${parseInt(params.n) - 1}`} className="mr-2">
-            ← Previous
-          </Link>
+        <div className="flex flex-row justify-between ml-auto gap-2">
+          <Link href={`/page/${parseInt(params.n) - 1}`}>← Previous</Link>
           <span className="px-2"> {page_number} </span>
-          <Link href={`/page/${parseInt(params.n) + 1}`} className="ml-2">
-            Next →
-          </Link>
+          <Link href={`/page/${parseInt(params.n) + 1}`}>Next →</Link>
         </div>
       </nav>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 gap-y-8">

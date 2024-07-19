@@ -45,8 +45,8 @@ export default async function Page({ params }: { params: { id: string } }) {
 
   return (
     <main className="flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24">
-      <nav className="grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1">
-        <div className="flex mr-4">
+      <nav className="flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm">
+        <div className="lg:flex mr-4 contents">
           <Link href="/">← Home</Link>
           {previousLetter.rows.length > 0 ? (
             <Link href={`/letter/${previousLetter.rows[0].id}`} className="ml-auto">
@@ -54,7 +54,7 @@ export default async function Page({ params }: { params: { id: string } }) {
             </Link>
           ) : null}
         </div>
-        <div className="flex ml-4">
+        <div className=" lg:flex pl-4 contents">
           {nextLetter.rows.length > 0 ? <Link href={`/letter/${nextLetter.rows[0].id}`}>Next →</Link> : null}
 
           <span className="text-sm ml-auto">
