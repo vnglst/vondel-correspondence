@@ -1,7 +1,0 @@
-- [x] improve OCR with langs
-- [x] improve splitting up in individual letters
-- [x] create re-usable utils for OpenAI + database
-- [x] make everything English
-- [x] clean up archive
-- [ ] merge to main
-- [ ] run for all papers
