@@ -1,0 +1,128 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","43","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","43","d"],{"children":["__PAGE__?{\"id\":\"43\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","43","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:Tb70,<h2>VONDEL AAN TESSELSCHADE.</h2>
+<h3>1641, Mei.</h3>
+<p>Opdracht aen Eusebia.</p>
+<p>Eusebia, nu treck, op Godts bazuinen,<br>
+Met my, niet om den Jerichooschen muur;<br>
+Maer om de stadt, die, met haer zeven kruinen,<br>
+De donders tarte, en terghde al ’t blixemvuur.<br>
+Nu leer met my zachtzinnigh oorelogen,<br>
+En Rome zelf bestormen op zijn kracht;<br>
+Niet met gewelt van schiltpadt, ram en bogen,<br>
+Waer me het fel al ’t aertrijck t’ onderbraght;<br>
+Maer met gebeén, en tranen, en twee tongen,<br>
+En wonderheén, en afgepynight bloet.<br>
+Wat Caesar dwongk heeft Christus dus gedwongen.<br>
+De doornekroon beschaemt den lauwerhoet.<br>
+Omhels dan dit paer helden, echte Vaders<br>
+Der Roomsche Bruit, en Godtverloofde maeght;<br>
+Die, op het bloet van hun doorluchtige aders,<br>
+Meer moedts dan op Anchises afkomst draeght:<br>
+Die afkomst quam den gryzen stroom oproeien,<br>
+En plante daer, door ’t zwaert, vervloeckte Goôn;<br>
+d’Apostelschap, beknelt in ysre boeien,<br>
+Verhief ’er ’t Kruis, gezegent in Godts zoon.<br>
+Ghy kust en leest de blaén die eeuwigh leven;<br>
+De lelien met roozen overstroit;<br>
+Spierwit satijn met martelinckt beschreven,<br>
+En bloetkorael op sneeuw, dat niet ontdoit.<br>
+Daer ziet men druck het padt tot blyschap banen.<br>
+Daer puft de stanck des kerckers ’t weeligh hof.<br>
+Daer kiest uw lust geen perlen voor die tranen.<br>
+Daer veeght men kroon en scepter uit, als stof.<br>
+Terwijl de jeught, met ydelheén geladen,<br>
+Den oogenblick des levens wulpsch verquist,<br>
+Leert d’aendacht hier de tyranny versmaden,<br>
+En d’ydelheén, noch ydeler dan mist.<br>
+Zy leert ’er naer Godts strenge Ridders aerden,<br>
+Die ’t hemelpadt, op purper niet betreén,<br>
+Maer op de punt van spijckers, sne van zwaerden,<br>
+Gekloncken en geknarst door vleesch en been.<br>
+Wat is ons vleesch, dat toch in ’t graf moet rotten?<br>
+Wat is het lijf, vermast van snoode pracht?<br>
+Der wormen spijze, en voetsel voor de motten;<br>
+Een hindernis van ’t geen Godt dierbaerst acht.<br>
+Dat’s ’t wezen uit zijn aengezicht gesneden,<br>
+De hemelsche en in klay gevange ziel;<br>
+Die haeckt te spoén, met wyde en wisse schreden,<br>
+Naer ’t zaligh honck, waer op haer liefde viel.<br>
+Geen Labyrinth der weerelt kan verwarren<br>
+Haer opzet, zoo zy volght den marteldraet,<br>
+En ’t licht der beide in bloet vergulde starren;<br>
+Waer voor het kroost van Tyndar onder gaet.<br>
+De Tiber komt ten Apennijn afbruizen,<br>
+En schijnt verheught, daer hy hun Graven schuurt;<br>
+Geviert van zoo veel Keizerlijcke huizen,<br>
+En Koningen, wier eere als Christus duurt.<br>
+Hoe dus? ick raeck geen aerde: myne veder<br>
+Verruckt den geest naer d’Apostolische asch.<br>
+Eusebia, laet los, ghy treckt my neder,<br>
+Die reede al uit den damp der weerelt was,<br>
+En liet u, na mijn afscheit, hier geen beter<br>
+Geheugnis, dan Sint Pauwels en Sint Peter *).</p>9:Ta4a,<h2>VONDEL TO TESSELSCHADE</h2>
+<h3>May 1641</h3>
+<p>Dedication to Eusebia</p>
+<p>Eusebia, now join me in sounding God's trumpets,
+Not to bring down the walls of Jericho,
+But to challenge the city with its seven hills,
+That defies thunder and provokes lightning.</p>
+<p>Now learn with me to wage gentle wars,
+And to besiege Rome at its strongest;
+Not with the force of shields, rams, and bows,
+Which once conquered the fierce earth;
+But with prayers, tears, and two tongues,
+And with wonders and tortured blood.
+What Caesar forced, Christ has compelled.
+The crown of thorns shames the laurel wreath.</p>
+<p>Embrace these pair of heroes, true Fathers
+Of the Roman Bride, and God's betrothed maiden;
+Who, on the blood of their illustrious veins,
+Carry more courage than Anchises' lineage:
+That lineage came to row the gray stream,
+And planted there, by the sword, cursed gods;
+The apostleship, bound in iron chains,
+Raised the Cross, blessed in God's son.</p>
+<p>You kiss and read the pages that grant eternal life;
+The lilies strewn with roses;
+Pure white satin inscribed with martyrdom,
+And blood coral on snow, that does not melt.
+There you see the path to joy paved.
+There the stench of the dungeon puffs into a lush garden.
+There your desire chooses no pearls over those tears.
+There crowns and scepters are swept away like dust.</p>
+<p>While youth, laden with vanity,
+Squanders the moment of life in wantonness,
+Attention here teaches to despise tyranny,
+And vanity, even more fleeting than mist.
+It teaches to follow God's stern Knights,
+Who tread the heavenly path, not on purple,
+But on the points of nails, edges of swords,
+Clinking and grinding through flesh and bone.</p>
+<p>What is our flesh, that must rot in the grave?
+What is the body, fattened with vile splendor?
+Food for worms, and sustenance for moths;
+A hindrance to what God holds most dear.
+It is the essence cut from His face,
+The heavenly soul imprisoned in clay;
+That yearns to hasten, with wide and certain strides,
+To the blessed home where its love resides.</p>
+<p>No labyrinth of the world can confuse
+Its purpose, if it follows the martyr's thread,
+And the light of the blood-gilded stars;
+For which the offspring of Tyndar falls.
+The Tiber rushes down from the Apennines,
+And seems delighted, as it washes their graves;
+Surrounded by so many Imperial houses,
+And Kings, whose honor endures like Christ's.</p>
+<p>How is this? I touch no earth: my pen
+Lifts the spirit to the Apostolic ashes.
+Eusebia, let go, you pull me down,
+Who was already out of the world's mist,
+And left you, after my departure, no better
+Memory than Saint Paul and Saint Peter.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/42","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/44","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/102","className":"underline","children":102}],[" ","to"," ",["$","$L7",null,{"href":"/page/104","className":"underline","children":104}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Joost van den Vondel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Tesselschade Roemers Visscher"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"A dedication to Eusebia, encouraging spiritual warfare and devotion"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1641"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Joost van den Vondel writes to Tesselschade Roemers Visscher, dedicating a piece to Eusebia. He encourages her to join him in spiritual warfare, not with physical weapons but with prayers, tears, and devotion. He contrasts the transient nature of earthly life and glory with the eternal significance of spiritual struggle and martyrdom, urging a focus on heavenly rewards over worldly pleasures."]}]]}]]}]]}]]}]

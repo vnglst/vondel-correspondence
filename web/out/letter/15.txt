@@ -1,0 +1,68 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","15","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","15","d"],{"children":["__PAGE__?{\"id\":\"15\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","15","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T47a,<h2>VONDEL AAN ALLE DICHTERS*).</h2>
+<h3>1630, Mei.</h3>
+<p>D’Amsterdamsche Academie
+Aen alle poéten en Dichters der Vereenigde Nederlanden.
+Liefhebbers van de goude vryheyt.</p>
+<p>Apoll, op Helicon geseten,
+Vraeght al syn heilige Poéten:
+Wat beste en slimste tongen syn?
+Of waerheyt salich maeckt, of schyn?
+Of dwang van vrome Christen-sielen
+Niet streckt om Hollandt te vernielen?</p>
+<p>Of vryheyt niet en was de schat
+Waerom men eerst in oorloogh tradt?
+Of oock in wel bestierde steden
+Een oproermaecker wort geleden?
+Of huyse-plondren vesten sticht?
+Of d’eedt geen burgery verplicht?
+En of sich leeraers niet verloopen,
+Wanneerse deesen bandt ontknoopen?</p>
+<p>Wiens antwoordt kortst en bondichst is,
+En klaerst in dese duysternis,
+Dien sullen d’Academiheeren
+Met eenen Princenroemer eeren:
+Daer Pallas, met haer diamant,
+In sne den Veldheer van het landt,
+Die met ’s Hertogenbosch gaet strycken,
+Daer Maurits tweemael af most wycken.
+Yver.</p>
+<p>D’Antwoorden moeten ingebracht worden Voor den eersten
+van Somermaendt, synde de dach onser verkiesinge, als Apollo
+te recht sal sitten, om den prijs te geven diense verdient.</p>9:T449,<h2>VONDEL TO ALL POETS</h2>
+<h3>May 1630</h3>
+<p>The Amsterdam Academy
+To all poets and writers of the United Netherlands.
+Lovers of golden freedom.</p>
+<p>Apollo, seated on Helicon,
+Asks all his sacred poets:
+What are the best and worst tongues?
+Does truth bring happiness, or does appearance?
+Does the oppression of devout Christian souls
+Not aim to destroy Holland?</p>
+<p>Was freedom not the treasure
+For which we first went to war?
+Or in well-governed cities,
+Is a troublemaker tolerated?
+Does looting homes build fortresses?
+Does the oath not bind citizens?
+And do teachers not stray
+When they break this bond?</p>
+<p>Whose answer is the shortest and most concise,
+And clarifies this darkness,
+Will be honored by the Academy members
+With a princely toast:
+Where Pallas, with her diamond,
+In snow the Field Marshal of the land,
+Who goes to strike 's-Hertogenbosch,
+Where Maurice had to retreat twice.
+Zeal.</p>
+<p>The answers must be submitted before the first
+of the summer month, being the day of our selection, when Apollo
+will sit in judgment to award the prize to the deserving one.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/14","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/16","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/52","className":"underline","children":52}],[" ","to"," ",["$","$L7",null,{"href":"/page/53","className":"underline","children":53}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"D’Amsterdamsche Academie"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"All poets and writers of the United Netherlands"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"A poetic contest regarding the value of freedom and truth"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1630"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Amsterdam"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=52.3676,4.9041","target":"_blank","rel":"noopener noreferrer","children":"52.3676, 4.9041"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"The Amsterdam Academy invites all poets and writers of the United Netherlands to participate in a contest. The contest questions the value of freedom and truth, and the impact of religious coercion on Holland. The best and most concise answer will be honored with a prize. Submissions are due by the first of June."]}]]}]]}]]}]]}]

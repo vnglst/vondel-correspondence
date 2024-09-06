@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fletter\u002F[id]","\u002Fpage\u002F[n]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

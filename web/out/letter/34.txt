@@ -1,0 +1,61 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","34","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","34","d"],{"children":["__PAGE__?{\"id\":\"34\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","34","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T730,<h2>GROTIUS AAN WILLEM DE GROOT.</h2>
+<h3>1636, 21 Februari, Parijs.</h3>
+<p>...Sophomphaneae (sic) versio utraque se mihi probat: filii excitatior nervosiorque est quam speraveram... Velim et So</p>
+<h2>HOOFT AAN BARLAEUS</h2>
+<h3>1636, 10 Juli.</h3>
+<p>Jae, die van UEd. maekt ook andre gaende, om hunne wieken te proeven, den uwen nae te vliegen, ende ons in deze eenzaeme vankenis te bezoeken. Maer (ach arme!) de mus opgeblaezen van 't lof uwer veirsen, ende misschien om'er haer'ooren op 't beste van 't spel te doen ujtschejden met zoo zoet een' mondt, heeft, eer de gedichten der H.H. Plemp ende Vondelen hier haevenen konden, haeren staert gelicht, en haere minnares met ejndelooze treurlust gelaeden. Onujtschrijflyk is dat schryen van heete traenen, dat kermen, dat misbaer van de twee oudste mejskens:</p>
+<p>Lamentis, gemituque, et foemineo ululatu,<br>
+Tecta fremunt, resonat magnis plangoribus aether... Etc.</p>
+<h2>BARLAEUS AAN VONDEL</h2>
+<h3>1637.</h3>
+<p>Ad Justum Vondelium cum a Constantino et Helena ad amores ipsum revocarem.</p>
+<p>Vondeli, mea quo toties interprete Musa<br>
+Teutonico populis gestiit ore loqui:<br>
+Vondeli, Batavae decus et laus prima Camoenae<br>
+Fontis inexhaustum flumen Apollinei:<br>
+Sperne truces vultus, tibi quos Maxentius offert,<br>
+Gestaque per Latium bella cruenta solum.<br>
+Cur Licini cantare minas et castra laboras?<br>
+Aut Helenae sacras ante sepulchra faces?<br>
+Cur Constantino gaudes comes ire per orbem?<br>
+Et magnum mundi sistere sede Ducem?<br>
+Da veniam bellis. satis est scripsisse renatum,<br>
+Exstincta veterum relligione, Deum.<br>
+Paulisper jam vive tibi; tibi quaere maritam,<br>
+Et post castra velis mitia castra sequi.<br>
+Quin aliam thalamis Helenam genialibus infer,<br>
+Verbaque quae recites mollia dictet amor.<br>
+Ipse tuos canta plectro Jeviore furores,</p>9:T7aa,<h2>GROTIUS TO WILLEM DE GROOT</h2>
+<h3>February 21, 1636, Paris</h3>
+<p>...Both versions of Sophomphaneas (sic) are acceptable to me: the son's version is more lively and vigorous than I had hoped... I also wish that So</p>
+<h2>HOOFT TO BARLAEUS</h2>
+<h3>July 10, 1636</h3>
+<p>Yes, your work also inspires others to test their wings, to follow your example, and to visit us in this lonely prison. But (oh, poor thing!) the sparrow, puffed up by the praise of your verses, and perhaps to make her ears leave the best part of the play with such a sweet mouth, has, before the poems of Mr. Plemp and Vondel could arrive here, lifted her tail and loaded her mistress with endless sorrow. The crying of hot tears, the wailing, the lamentation of the two oldest girls is indescribable:</p>
+<p>With lamentations, groaning, and feminine wailing,<br>
+The house resounds, the sky echoes with great cries... Etc.</p>
+<h2>BARLAEUS TO VONDEL</h2>
+<h3>1637</h3>
+<p>To Justus Vondel when I called him back to love from Constantine and Helena.</p>
+<p>Vondel, my Muse, who so often spoke to the people in the Germanic tongue through you:<br>
+Vondel, the pride and first praise of the Dutch Muse,<br>
+The inexhaustible stream of Apollo's fountain:<br>
+Scorn the grim faces that Maxentius offers you,<br>
+And the bloody wars fought throughout Latium.<br>
+Why do you labor to sing of Licinius's threats and camps?<br>
+Or the sacred torches before Helena's tomb?<br>
+Why do you rejoice to accompany Constantine around the world?<br>
+And to place the great leader of the world on his throne?<br>
+Forgive the wars. It is enough to have written about the reborn God,<br>
+With the old religion extinguished.<br>
+Now live for yourself for a while; find a wife for yourself,<br>
+And after the camps, follow the gentle camps of love.<br>
+Indeed, bring another Helena to your marriage bed,<br>
+And let love dictate the soft words you recite.<br>
+Sing your passions with a lighter touch,</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/33","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/35","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/88","className":"underline","children":88}],[" ","to"," ",["$","$L7",null,{"href":"/page/90","className":"underline","children":90}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1970"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],null]}]]}]]}]]}]]}]

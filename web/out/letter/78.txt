@@ -1,0 +1,80 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","78","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","78","d"],{"children":["__PAGE__?{\"id\":\"78\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","78","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T8d9,<h2>M. DE HERTOGHE AAN G. BRANDT</h2>
+<h3>1677, 29 April.</h3>
+<p>Ook hebt ge hier uwe Lykrede wederom (dus zoude Vondel en Hooft zelf schrijven, het Latynsche woort ratio door reden, oratio OUDAAN AAN G. BIDLOO’).
+1678</p>
+<p>Antwoord-brief aan G. Bidloo,</p>
+<p>Toen hij mij vooraf J. van Vondel’s Afbeelding toegezonden had, zonder Brief of Bujschrift.</p>
+<p>Het scheen mij als een vremde zaak
+Te zien dien Zoon van Agrippyne,
+Dien welbespraakte, zonder spraak,
+’t Zy uwe byspraak of de zyne;
+En ’k nam het als een voorspook op
+Of niet die wijze mond besloten
+Als had het stygen na den top
+Van ’s levens bergsteil, haar verdroten,
+Wel haast zich schikke in stille rust
+Om met een lieffelyck bewegen
+Als van al ’t Aardsch niet meer bewust
+In God t’ ontfaan den laetsten zegen:
+En heil en welstand ’t geen men niet
+Wat hem belangt hem kan misgunnen;
+Maar zoo m’ op onze neiging ziet
+Waar toe we langzaam stemmen kunnen
+En ziet zijn Loopbaan haast het jaar
+Haar ’t negentigste ronde sluiten,
+’t Zou schoon ze niet bepaald en waar,
+Of hy ’t Staketsel steeg te buiten,
+Hen niet verdrieten, die de kracht
+En rykdom van zyn Geest waarderen:
+Maar nu geen menschelijke macht
+Of wensch, dien laatsten slag kan keeren
+Zoo wensch men dat voor d’ Eeuw’ge troon
+De hoogste prijs zyn loop bekroon.
+M. DE HERTOGHE AAN G. BRANDT’).</p>
+<h3>1679, 2 Februari.</h3>
+<p>Ick vind mij volgens beloften verplicht, om aen een vriendt van aensien te doen hebben de Sleutel op J.V.V. Palamedes, onder den Liefhebbers hier en daer sijnde. inde verlegentheyt van die onder mijn bulleties niet te vinden heb ick gemeent my alderbest aen UEd. te connen vervoegen, om daer aen te geraecken; vermits ick niet en twijffele, of uwe naeukeurigheyt heeft oock de zelve bemachtight. ick moet mijne bede van de zelve te mogen hebben, met een verdubbelingh van overlast besoetelen, en vergen de zelve op het spoedigste te mogen erlanghen, onder verseeckeringh nochtans, dat dees dienst verdubbelingh van danckbaerheyt sal leggen op het herte van hem, enz.</p>
+<h3>1679, 6 Febr.</h3>
+<p>(Uit een tweeden brief van de Hertoghe blijkt dat Brandt hem te Amsterdam daartoe in de gelegenheid zal stellen. De schrijver was predikant te ’s Gravenhage, Brandt te Amsterdam.)</p>9:T76d,<h2>M. DE HERTOGHE TO G. BRANDT</h2>
+<h3>April 29, 1677</h3>
+<p>Here is your eulogy again (as Vondel and Hooft themselves would write, translating the Latin word "ratio" to "reason," or "oration" OUDAAN TO G. BIDLOO’).
+1678</p>
+<p>Reply letter to G. Bidloo,</p>
+<p>When he sent me J. van Vondel’s portrait without a letter or note.</p>
+<p>It seemed strange to me
+To see that son of Agrippina,
+That eloquent man, without speech,
+Whether your words or his;
+And I took it as a bad omen
+That this wise mouth was silent,
+As if the climb to the top
+Of life’s steep mountain had wearied it,
+Soon to settle into quiet rest
+To receive the final blessing from God
+With a gentle motion,
+As if no longer aware of earthly things:
+And health and well-being, which no one
+Can begrudge him;
+But if we look at our inclination
+To which we can slowly agree
+And see his journey nearing its
+Ninetieth year,
+It would be beautiful if it were not certain,
+Whether he surpassed the scaffold,
+Not to sadden those who value
+The strength and richness of his spirit:
+But now no human power
+Or wish can prevent that final blow
+So one wishes that before the eternal throne
+The highest prize crowns his journey.
+M. DE HERTOGHE TO G. BRANDT’).</p>
+<h3>February 2, 1679</h3>
+<p>I find myself obliged, according to promises, to provide a friend of importance with the key to J.V.V. Palamedes, among enthusiasts here and there. In the difficulty of not finding it among my papers, I thought it best to turn to you, as I do not doubt your meticulousness has also secured it. I must trouble you with my request to have it as soon as possible, assuring you that this service will double the gratitude in the heart of him, etc.</p>
+<h3>February 6, 1679</h3>
+<p>(From a second letter from de Hertoghe, it appears that Brandt will make it available to him in Amsterdam. The writer was a preacher in The Hague, Brandt in Amsterdam.)</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/77","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/79","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/146","className":"underline","children":146}],[" ","to"," ",["$","$L7",null,{"href":"/page/148","className":"underline","children":148}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"M. de Hertoghe"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"G. Brandt"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Request for a copy of J.V.V. Palamedes"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1679"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"'s Gravenhage"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=52.0809,4.3101","target":"_blank","rel":"noopener noreferrer","children":"52.0809, 4.3101"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"M. de Hertoghe writes to G. Brandt requesting a copy of J.V.V. Palamedes, as he is unable to find it among his own papers. He expresses his gratitude and assures that this favor will be met with doubled thankfulness."]}]]}]]}]]}]]}]

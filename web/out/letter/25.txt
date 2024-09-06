@@ -1,0 +1,91 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","25","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","25","d"],{"children":["__PAGE__?{\"id\":\"25\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","25","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T796,<h2>VONDEL AAN TESSELSCHADE,</h2>
+<p>met
+Vredewensch aen Constantyn Huigens.</p>
+<h3>1633, 13 Augustus.</h3>
+<p>O Ridder, die den noit verwonnen held<br>
+Gestadigh volght, in ’t bloedigh oorlooghsveld,<br>
+En saeght hem korts, in ’t oude worstelperck<br>
+Versengen myn’ geboortstroom voor Rynberck:<br>
+Wat portghe my dat ick den leeuw ophits,<br>
+Die al te heet op ’t sorgelycke spits,<br>
+Sich selven waeght, in veldslagh en voor vest,<br>
+En sleept den roof in syn doorluchtigh nest?<br>
+Hy spi[e]gel sich veel eer aen Cazimir,<br>
+Die onlangs werd getroffen van dit vier.<br>
+Hy spi[e]gel sich aen d’ eer van Swedenryck,<br>
+Wiens weduw treurt op het gebalssemt lyck.<br>
+Het oorlooghslot verschoont nu den soldaet,<br>
+En lacht, wanneer het opperhoofden slaet.<br>
+De koegel snort d’onedelsten voorby,<br>
+En blindling treft de grooten op een ry.<br>
+’t Is veilighst dat ghy den Nassauwer stuit,<br>
+Op synen toght: dies stel uw gulde luit,<br>
+En streel den held, dat het gemoed bedaer,<br>
+En vre verkies voor oorloogh en gevaer.<br>
+De vreé, een schat by veelen onbekent,<br>
+Die overtreft triomfen sonder end.<br>
+D’olyf behaeght my boven den laurier.<br>
+Wat is de krygh een woest verslindend dier!<br>
+Dat weet het volck, ’t welck op de grensen sucht,<br>
+En eeuwigh kermt in een benaude lucht.<br>
+Wat heeft het schier een eeuwe niet besuurt.<br>
+Elck vecht om vre, maer Neerlands oorloogh duurt.<br>
+Het uitheemsch schuim d’inlandsche vruchten maeit.<br>
+De zee en ’t veld met lycken syn besait.<br>
+De nagebuur die schent ons jaerlyx aen,<br>
+Uit eige baet, en juicht soo wy vergaen.<br>
+Vervloeckte krygh, is ’t noodlot, dat dit land<br>
+Tot ’s andren rust heel Spanjen hou aen band.<br>
+Soo moeten wy het draegen met gedult,<br>
+En achten ons rampsaligh buiten schuld.</p>
+<p>juste.</p>
+<p>Adres: f Eerbaere Joffrouwe, Krombalch huisvrouwe, van den<br>
+heer Alard Krombalch, Tot, Alckmaer, port.</p>9:T6c2,<h2>VONDEL TO TESSELSCHADE,</h2>
+<p>with
+Peace Wishes to Constantijn Huygens.</p>
+<h3>August 13, 1633.</h3>
+<p>Oh Knight, who always follows the never-defeated hero
+Steadily in the bloody battlefield,
+And recently saw him in the old wrestling ground
+Near my birthplace, Rynberck:
+What good does it do me to provoke the lion,
+Who, too eager on the dangerous peak,
+Risks himself in battle and before the fortress,
+And drags the prey to his illustrious nest?
+He should rather mirror Casimir,
+Who was recently struck by this fire.
+He should mirror the honor of Sweden,
+Whose widow mourns over the embalmed body.
+The war spares the soldier now,
+And laughs when it strikes the leaders.
+The bullet whistles past the commoners,
+And blindly hits the great ones in a row.
+It is safest for you to stop the Nassau man
+On his journey: so tune your golden lute,
+And soothe the hero, so that his mind calms,
+And choose peace over war and danger.
+Peace, a treasure unknown to many,
+That surpasses endless triumphs.
+The olive pleases me more than the laurel.
+What a wild, devouring beast war is!
+The people know this, who sigh at the borders,
+And eternally lament in a troubled air.
+What has it not endured for nearly a century.
+Everyone fights for peace, but the Dutch war endures.
+The foreign scum reaps the domestic fruits.
+The sea and the field are covered with bodies.
+The neighbor shames us yearly,
+For his own gain, and rejoices as we perish.
+Cursed war, is it fate that this land
+Holds all of Spain in bondage for others' peace.
+So we must bear it with patience,
+And consider ourselves unfortunate but blameless.</p>
+<p>Just.</p>
+<p>Address: To the Honorable Lady, Mrs. Krombalch, wife of Mr. Alard Krombalch, in Alkmaar, postage paid.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/24","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/26","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/76","className":"underline","children":76}],[" ","to"," ",["$","$L7",null,{"href":"/page/78","className":"underline","children":78}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Joost van den Vondel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Tesselschade Roemers Visscher"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Wishing peace to Constantijn Huygens"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1633"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Joost van den Vondel writes to Tesselschade Roemers Visscher, expressing his wishes for peace to Constantijn Huygens and reflecting on the futility and destruction of war. He emphasizes the value of peace over endless triumphs and laments the ongoing suffering caused by war."]}]]}]]}]]}]]}]

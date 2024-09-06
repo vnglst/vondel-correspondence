@@ -1,0 +1,124 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","30","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","30","d"],{"children":["__PAGE__?{\"id\":\"30\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","30","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T110e,<p>Non ita pridem ad convivium vocatus, gustavi pastum ficis jecur anseris albi, Et lepori avulsos Iumbos etc. Mox cum apponerentur Plutonis ista ambrosia, quam caviaram vocant, necnon encrasicholorum vis muriae foeten- tium, tetigi singula, ut cum Venusino loquar, dente superbo, similis fasti- dienti.”</p>
+<p>(Volgens de uitgave door Worp, De briefwisseling van Constantijn Huy- gens, II, 18. De uitgaven van: Barlaei Epistolae, II, 538, en v. Vloten, Hooft’s Brieven, IV, bl. 293 geven een minder juiste lezing.)</p>
+<p>Vertaling: „Nog niet lang geleden op een gastmaal genoodigd, heb ik ge- smuld aan witte ganzenlever met vijgencompéte en hazepeper, volgens Horatius. Maar toen mij daarna dat godengerecht van Pluto, dat men caviaar noemt, werd voorgezet, met een groote portie slecht riekende ingemaakte ansjovis, heb ik van alles heel weinig genomen; om met Horatius te spreken, met lange tanden, waarbij ik mijn tegenzin moeilijk kon verbergen.”</p>
+<p>Toen Tesselschade aan Huygens, bij het overlijden van zijn vrouw in 1637, het troostgedichtje zond, (zie: Onwaerdeerl. Vrouw, bl. 175) dat Huygens nog in herinnering bracht in 1681, heeft zij, opzettelijk, of onwillekeurig de vertaling van Donne’s: „De driedubbele Gek” daarin te pas gebracht. Zie hierna.</p>
+<p>Dezelfde gedachte: „zijn leed vergeten door het te beschrijven”, door Tesselschade in haar vers geuit: „En stel zijn leet te boeck, zoo heeft hij ’t niet te onthouwen”, vindt men terug in Huygens’ vertaling:</p>
+<p>„Soo meend’ ick myn verdriet te schroeven door mijn dichten;
+Soo door den engen Rijm verduiv'len en verlichten.”</p>
+<p>Het volgende vers is zelfs letterlijk door Tesselschade overgenomen uit Huygens’ gedicht</p>
+<p>„Want quelling op de maat en kan zoo fel niet zijn”,</p>
+<p>De vertaling van Donne blijkt wel een zeer diepen indruk gemaakt te heb- ben op de belangstellende vrienden van Hoofts kring, zooals zij ook in onzen tijd weer naar waarde geschat worden als geestige verzen.
+Nu, mannen, eet u zelve moe;
+Gebruikt’er eek en peper toe:
+Want wy dees lekkernyen
+U geenszins en benyen.</p>
+<p>Als proef van Donne’s dichtkunst volgt hier, het door Barlaeus ook zeer geprezene „The triple fool” met Huygens’ vertaling als: „De drydobble Geck”.</p>
+<p>I am two fools, I know,
+For loving and for saying so
+In whining poetry;
+But where’s that wise man, that would not be I,
+If she would not deny?
+Then as th’earth’s inward narrow crooked lanes
+Do purge sea water’s fretful salt away,
+I thought, if I could draw my pains
+Through rhyme’s vexation, I should them allay.
+Grief brought to numbers cannot be so fierce,
+For he tames it, that fetters it in verse.</p>
+<p>But when I have done so,
+Some man, his art and voice to show,
+Doth set and sing my pain;
+And, by delighting many, frees again
+Grief, which verse did restrain.
+To love and grief tribute of verse belongs,
+But not of such as pleases when ‘tis read.
+Both are increased by such songs,
+For both their triumphs so are published,
+And I, which was two fools, do so grow three.
+Who are a little wise, the best fools be.</p>
+<p>De Dry-dobbele geck.
+Ick ben twee Gecken: een, die daer van Minne sterv’,
+Een, die het Minnen-mal in Rijm bejancken derv’.
+Maer waer’ sy weigerde mijn qualen te genesen?
+Het onderaerdsche nauw, daer door sich ’t Zee-sop stouwt
+Ontpekelt in ’t gedrang sijn aengeboren sout;
+Soo meend’ oock mijn verdriet te schroeven door mijn dichten,
+Soo door den engen Rijm verduyv'len en verlichten;
+Want quelling op de maet en kan soo fel niet zijn,
+En dies’ in Dichten boeyt betemt haer’ dolle pijn.</p>
+<p>Soo doen ick; maer vergeefs: men stelt mijn leet op noten,
+Men singht en pronckt er met: was ’t Dicht in Dicht besloten,
+Men helpt het uyt den band; men geeft het volle vlucht,
+Men vrijdt het om de konst en an’dren haer genucht.
+Het rijmen voeght de Min, het rijmen voeght de quelling,
+Maer geen vermaeckend Rijm: een aengenaem’ vertelling,
+Een lieffelick gesang verheft haer’ overhant,
+En voert haer zege-lof van d’een in d’ander’ hant;
+En ick, twee gecken eerst, beginder dry te strecken;
+De middelmatighe zijn d’allerbeste gecken.</p>
+<h2>HUYGENS AAN BARLAEUS.</h2>
+<h3>1634, 24 October.</h3>
+<p>... Ama me et vale, cum amicis Vossio, Viquefortio, Vondelio, et si ruri non est, humanissimo Hoofdio.</p>9:Td97,<p>Not long ago, I was invited to a feast where I tasted white goose liver with fig compote and hare stew, according to Horace. But when they served that divine dish of Pluto, which they call caviar, along with a large portion of foul-smelling pickled anchovies, I barely touched anything. To speak like Horace, I ate with reluctance, barely hiding my distaste.</p>
+<p>When Tesselschade sent Huygens a comforting poem upon the death of his wife in 1637 (see: Onwaerdeerl. Vrouw, p. 175), which Huygens recalled in 1681, she intentionally or unintentionally included a translation of Donne’s "The Triple Fool." See below.</p>
+<p>The same idea, "forgetting one's sorrow by writing about it," expressed by Tesselschade in her verse: "And write down his sorrow, so he does not have to remember it," is found in Huygens' translation:</p>
+<p>"So I thought to lessen my grief through my writing;
+So through the narrow rhyme, to curse and lighten it."</p>
+<p>The following verse is even literally taken by Tesselschade from Huygens' poem:</p>
+<p>"For torment in measure cannot be so fierce,"</p>
+<p>Donne's translation seems to have made a very deep impression on the interested friends of Hooft's circle, as they are also appreciated in our time as witty verses.</p>
+<p>Now, men, eat yourselves full;
+Use oak and pepper too:
+For we do not envy
+These delicacies.</p>
+<p>As a sample of Donne’s poetry, here follows the highly praised "The Triple Fool" with Huygens' translation as "De drydobbele Geck."</p>
+<p>I am two fools, I know,
+For loving and for saying so
+In whining poetry;
+But where’s that wise man, that would not be I,
+If she would not deny?
+Then as the earth’s inward narrow crooked lanes
+Do purge sea water’s fretful salt away,
+I thought, if I could draw my pains
+Through rhyme’s vexation, I should them allay.
+Grief brought to numbers cannot be so fierce,
+For he tames it, that fetters it in verse.</p>
+<p>But when I have done so,
+Some man, his art and voice to show,
+Doth set and sing my pain;
+And, by delighting many, frees again
+Grief, which verse did restrain.
+To love and grief tribute of verse belongs,
+But not of such as pleases when ‘tis read.
+Both are increased by such songs,
+For both their triumphs so are published,
+And I, which was two fools, do so grow three.
+Who are a little wise, the best fools be.</p>
+<p>De Dry-dobbele geck.
+I am two fools: one, who dies of love,
+One, who dares to express love’s madness in rhyme.
+But what if she refused to heal my woes?
+The underground narrow path, through which the sea’s brine flows,
+Loses its inherent salt in the process;
+So I thought to lessen my grief through my writing,
+So through the narrow rhyme, to curse and lighten it;
+For torment in measure cannot be so fierce,
+And thus, in poetry’s bonds, it tames its wild pain.</p>
+<p>So I do; but in vain: they set my grief to music,
+They sing and flaunt it: if the poem were confined to poetry,
+They help it break free; they give it full flight,
+They celebrate it for the art and others’ delight.
+Rhyme suits love, rhyme suits torment,
+But not pleasing rhyme: a pleasant tale,
+A lovely song elevates its power,
+And carries its triumph from one to another;
+And I, first two fools, begin to stretch to three;
+The moderately wise are the best fools.</p>
+<h2>HUYGENS TO BARLAEUS.</h2>
+<h3>1634, 24 October.</h3>
+<p>... Love me and farewell, with friends Vossius, Viquefort, Vondel, and if he is not in the countryside, the most courteous Hooft.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/29","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/31","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/83","className":"underline","children":83}],[" ","to"," ",["$","$L7",null,{"href":"/page/85","className":"underline","children":85}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Constantijn Huygens"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Barlaeus"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Sharing a translation and reflections on poetry"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1634"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"la"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Constantijn Huygens writes to Barlaeus, sharing a translation of John Donne's 'The Triple Fool' and reflecting on the nature of grief and poetry. He also mentions Tesselschade's poem sent to him upon his wife's death in 1637 and its connection to Donne's work."]}]]}]]}]]}]]}]

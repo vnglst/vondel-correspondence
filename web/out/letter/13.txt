@@ -1,0 +1,219 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","13","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","13","d"],{"children":["__PAGE__?{\"id\":\"13\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","13","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T280e,<h2>VONDEL AAN HOOFT</h2>
+<h3>1628, Juni.</h3>
+<p>Brief aen den Drost van Muyden, spellende de herstellinge der Duytsche vryheyd.</p>
+<p>Een lieflijck luchje voere u toe mijns harten groet,<br>
+Doorluchte Drost, wiens gunst verplicht houd mijn gemoed,<br>
+Hoe verre 't lichaem dwaelt, van ros en wind gedragen,<br>
+Daer steyler rolt op 't hoofd de klaer bestarnde wagen;<br>
+Daer nauwelijcx de son beneden 's aerdrijcx kim<br>
+Gesoncken, weér verrijst, en maeckt een’ korter schim,</p>
+<p>Hier praelt het hooge koor en sijn’ gewijde autaeren,</p>
+<p>Waer voor d’aertsbisschop, met toejuyching veeler schaeren,<br>
+Gewoon is al van ouds te scheppen aerdsche Godn.</p>
+<p>Hier heerscht hy, die so trots sijn’ afgeleyde kroon</p>
+<p>Met opgesetten helm, in ’t vlacke veld verdedight,</p>
+<p>En fier by beurt sijn’ vuyst tot staf en kling beledight:</p>
+<p>En schoon Fortuyn hem heb den zegepalm ontseyt,</p>
+<p>En meermaels sijn gesloopt en vlughtigh heyr gespreyt;<br>
+Wanneer hy, afgestreen, met wisseling van paerden,</p>
+<p>D’ op hem geloosde roers, pistool en blancke swaerden<br>
+Ontworstelde, noch word sijn oorlooghsmoed niet flaeu:<br>
+Noch hoopt hy, t’sijner tijd, den Roomschen arendsklaeu,<br>
+Die stout op vetten roof nu sit in top geklommen,</p>
+<p>Met kracht t’ontrucken de gegrepe Vorstendommen;</p>
+<p>Hoe ongelooflijck ’t schijnt te stuyten dit geweld,</p>
+<p>Dat van den Donau af komt bruysen in de Belt,</p>
+<p>En afspoelt soo veel lands, en uytroeyt soo veel’ troonen.<br>
+Der Duytschen sluymering, gezart door ’t schendigh hoonen,<br>
+Ten lange lesten eens opwaecken sa! tot wraeck.</p>
+<p>Wy hebben allerley gepeynst op dese saeck:</p>
+<p>En gaende, op onse reys, in Nedersaxen dwaelen,</p>
+<p>Door bosschen droef van loof, en schel van nachtegaelen,<br>
+Uyt vreese van gevaer gesterreckt met geley,</p>
+<p>Gebeurde my wat vreemds. Ten ende was de May.</p>
+<p>De nuchtre dageraad met sijn’ saffraenden luyster</p>
+<p>Allengs in’t Oosten rees, en mengde licht en duyster:</p>
+<p>Het was nocht dagh nocht nacht, maer dagh en nacht te gaér:<br>
+De beecxkens in het woud die ruyschten silverklaer:</p>
+<p>Oock ruyschte blad en lof om ’t kraecken van den waegen,<br>
+Getroffen van een koelt, de voorbo van het daegen:<br>
+Wanneer op ’t onvoorsienst, ter zijden uyt den bosch,</p>
+<p>Een’ achtbre vrou vooruyt komt stooten met haer ros;<br>
+Bestuwt met eenen stoet van hertogen en graeven,</p>
+<p>Die, aen haer’ trou verplicht, sich meé ter viucht begaeven.<br>
+Soo ras sy ons verneemt, ’t is onraed, roeptse, wend.</p>
+<p>Se wil flucx wenden, eerse vriend of vyand kent.</p>
+<p>Wy roepen: wieghe zijt, hou stand en wilt niet schroomen,<br>
+Nocht schricken voor die geen’, die eerst uyt Holland komen,<br>
+Tot niemands achterdeel. Stand houd sy op dat woord,</p>
+<p>En schijnt vermaeckt, so ras sy Holland noemen hoort,</p>
+<p>En naerdert ons’ karros hieromme niet te luyer.</p>
+<p>Haer aenschijn toontse, door het vlijen van den sluyer,<br>
+En wischt met d’ander hand haer’ oogen rood van druck.<br>
+Wy spreecken: eedle vrou, wat woedend ongeluck,</p>
+<p>Wat onheyl jaeght u hier, langs buytenbaensche paden,</p>
+<p>In naere schemering? Ach! steentse, ick ben verraden.</p>
+<p>De Duytsche Vryheyd vlied den bodem van het rijck.<br>
+Waer raecktmen strandewaert? Wy soecken algelijck</p>
+<p>Te paerde door de zee ons selleven te redden.</p>
+<p>Mijn rust is hier gesteurt op haer’ geruste bedden.</p>
+<p>Waer vinden wy het vleck, dat in de duynen leyt,</p>
+<p>De wereld door vermaert door heldendapperheyd?</p>
+<p>Daer eer mijn Welhem heeft in’t harrenas gebloncken</p>
+<p>En Spanjen, doen het was so godvergeten droncken</p>
+<p>Van’t Peruaensche bloed, geleert, hoe kleen het zy,</p>
+<p>’t Geen stuyten kan den scheut der Christe Monarchy.</p>
+<p>Ick kon my selve traegh tot ballingschap verpijnen,</p>
+<p>Voor dat graef Rudolfs geest bebloed my quam verschijnen<br>
+Ter middernacht, daer ick mijn’ leden had gestreckt.<br>
+Mevrouwe, sprack hy, sooghe noyt waert opgeweckt</p>
+<p>Door oorlooghsrampen en bebloede nederlaegen,</p>
+<p>Door moordgeschrey en landbederfelijcke plaegen,</p>
+<p>Soo weck u eens de moord soo wreed aen my gepleeght,<br>
+Die allen overlast en wreedheid overweegt.</p>
+<p>Waar zal oprechte trouw voortaan zich op verlaten?</p>
+<p>’k Ontsloot mijn Graaflijkheid aan Oostenrijks soldaten,<br>
+En vierde ze den toom, als waar ik aller slaaf;</p>
+<p>Een ander had de daad, en ik den naam van Graaf,</p>
+<p>Ik ben gezworen heer, een vreemde stelt me wetten;</p>
+<p>Men troont me, onnozelijk, op schellemsche banketten,<br>
+Men moord my, onder schijn van onderling krackeel.<br>
+Uytheemschen vangen ’t aen: de landsheer boet het scheel.<br>
+Mijn graeflijck bloed besprengt mijn’ erfelijcken acker.</p>
+<p>En lust u ’t slaepen noch? En wordghe noch niet wacker?<br>
+Ga bergh u onder ’t dack, terwijl het onweer ruyscht,<br>
+Daer nu een jongling vrijt den vrydom met sijn’ vuyst.<br>
+Van ouds is ’t al gespelt dat Duytschlands moed sal swijcken:<br>
+De Vryheyd over Rijn, voor eenen tijd lang, wijcken,</p>
+<p>Soo lang tot Holland, met sijn’ bondgenooten, haer</p>
+<p>Weér setten sal met kracht en staci op ’t autaer:</p>
+<p>Dan sultghe blincken, by u welkome onderdaenen.</p>
+<p>Op op, en troost mijn’ bruyd, die druckigh smilt in traenen.<br>
+Hier meé verdween de geest. Het spoocken was gedaen,<br>
+En ick met desen sleep begaf my herwaert aen.</p>
+<p>Soo spreeckt d’eerwaerde vrou, en breeckt haer’ klacht met nocken,<br>
+Ten diepen boesem met veel suchtens uytgetrocken.</p>
+<p>Ick tot medoogen van soo groot een ramp geparst,</p>
+<p>Heb naulijcks antwoord ree, of ’t heele bosch dat barst<br>
+Van dreun en donder, brand en blixem der musketten,<br>
+En galmt van wapenklanck van tromlen en trompetten.<br>
+Een yeder vlught sijns weeghs. De vreese voor gevaer<br>
+Soeckt troost aen yslijckheen. Geen schuylhoeck is te naer.<br>
+Hier klaegh ick: Heer, hoe lang, hoe lang hebt ghy besloten<br>
+Den aerdboém tot een’ roof te geven aen de grooten,<br>
+Wier staetsucht ’s vollecks vleesch als roest het yser vreet?<br>
+D’onschuldige gemeent die staet op bloed en sweet<br>
+Hun’ overdwaelsche pracht. Om met een pop te prijcken<br>
+De wijde wereld word een kerreckhof vol lijcken,</p>
+<p>Vol rottings en vol stancks. Hoe tref ick hier uw doel?<br>
+Dit sietghe van omhoogh, en draeght u traegh en koel<br>
+In’t straffen der misdaén en gruwelijcke stucken.<br>
+Fortuyn die schakelt staegh een’ reecks van ongelucken,<br>
+En schroeft hier door in top de mindre mogentheen,</p>
+<p>En ’t opgeschroefde weér stort schielijck naer beneén.<br>
+Wat sal van dese saeck besluyten ’s menschen sotheyd?</p>
+<p>’t Behaeghde u rust alleen te stellen in uw’ Godheyd,</p>
+<p>Op dat mense in u soeck, en d’ydelheen veracht,</p>
+<p>Die Heraklijt beweent en Demokrijt belacht.</p>
+<p>O onbeweeghlijcke as! om wie de dingen draeyen,</p>
+<p>Die van geen’ roering weet, wat stormen dat ’er waeyen,<br>
+Verleen mijn’ ziele rust in uwe vastigheyd;</p>
+<p>Terwijl het aerdrijck hier mijn’ voeten vrede ontseyt.<br>
+Zoo sprekende, ik bedaar, en ga mijn reize spoeyen,</p>
+<p>De minste ritsling doet de vreeze dubbel groeyen;</p>
+<p>Dan wensch ik veilig t’ huis te rusten bij mijn vrouw,<br>
+Dan nijpt mijn broeders lijk mijn teder hart met rouw,<br>
+Dan weidt mijn geest met u in heilge Poézye!</p>
+<p>Dan bid ik, dat Reael geweld noch tirannye</p>
+<p>Bejegen’, nu men hem na Praag gevangen voert,</p>
+<p>Wiens schipbreuck ’t vaderland en u en my ontroert.</p>
+<p>Ick hoop wy sullen hem behouden noch aenschouwen,<br>
+Die met een heldenstuck mijn’ Poésy sal bouwen:<br>
+Beveeltmen my dan ’t rijm, ’k beveel u’t rijmeloos,<br>
+Wiens pen der Vrancken held deed leven voor altoos.</p>
+<h3>In de Sont. 1628.</h3>
+<p>Noch een aen denselven.</p>
+<p>Drost van’t hooge huis te Muiden,<br>
+Stont ick, daar de zee van’t Zuiden<br>
+Op uw vaste vesten bruist,<br>
+Als de wint van’t Noorden ruischt:<br>
+Zachter zou my rust omhelzen,<br>
+In de schaduw van uw elzen,<br>
+Die van outs al zijn gewoon<br>
+Scherp te luistren naar den toon<br>
+Van uw aangename snaren;<br>
+Temsters van de bracke baren;<br>
+Streelsters van den zoeten vliet,<br>
+Liezen, lof, en ruighte, en riet;<br>
+Wecksters van de nachtegalen,<br>
+Die hier in de tacken dalen;<br>
+’t Welck de leeuwerck lijt te noo.<br>
+’t Zy hy rust op groene zoó:<br>
+’t Zy zijn keeltje steiltjes steigert,<br>
+En u nabaauwt ongeweigert,<br>
+Tot een prick toe naeu en juist:<br>
+Als de zwaan haar weerga pluist,<br>
+In uw wijde watergrachten,<br>
+Aangeprickelt door uw klaghten.<br>
+’t Eene diertje ’t ander leckt,<br>
+Duif en doffer treckebeckt,<br>
+Knort en kruilt, en onbeteutert<br>
+Musch en knoter tjilpt en kneutert:<br>
+En de snoeck, op ’t soet geluit,<br>
+Steeckt den kop ten vijver uit.<br>
+Zomtijts kiest ghy ’t zeskant huisken,<br>
+Voor uw afgescheiden kluisken;<br>
+En zijt in dees eenzaamheên<br>
+Nimmer min dan dus alleen.<br>
+In dit kluisken wert geboren<br>
+(’t Was zoo van uw lot beschoren)<br>
+’s Grooten Henrix groote Faam,<br>
+En de grootheit van zijn naam<br>
+Quam uit deze kleenheit rennen;<br>
+Vlug geworden door uw pennen,<br>
+Allesins waar ’t Duitsche volck<br>
+Is bekent door taal of tolck.<br>
+O, wat was u hier Kristijntje<br>
+Liever als een zonneschijntje.</p>
+<p>’t Loncken van uw Leonoor<br>
+Gaat ’er nu voor starrengloor,<br>
+En haar blanckheit en haar bloozen<br>
+Boven leliblaên, en roozen;<br>
+Wenge in uwen tuintroon rust,<br>
+En haar, onder ’t kouten, kust,<br>
+Nu wat stoutjes, dan wat blootjes:<br>
+’t Welck de dwergen, minnegootjes,<br>
+Lachen doet, van onder ’t lof;<br>
+Om dat, even als uw hof,<br>
+Uw Drostin (ick zwijgh ’t niet langer)<br>
+Groeizaam, gaat al zwijgend zwanger<br>
+Van een Drostelicke vrucht;<br>
+Daarze zomtijts om verzucht,<br>
+Als zy ’t twijfflende op moet geven,<br>
+Ofze slapen magh of leven.<br>
+Stont ick, wensch ick andermaal,<br>
+In uw hof en ruime zaal,<br>
+Daar ick my zoo groote weelden<br>
+Kan van uwen staat verbeelden;<br>
+’k Zou gerust van harte zijn:<br>
+Maar nu nijpt my angst en pijn,<br>
+Om niet levende in de golven<br>
+Als een vloeck te zijn gedolven.</p>9:T20bc,<h2>VONDEL TO HOOFT</h2>
+<h3>June 1628</h3>
+<p>Letter to the Bailiff of Muiden, describing the restoration of German freedom.</p>
+<p>A gentle breeze carries my heartfelt greetings to you, illustrious Bailiff, whose favor obliges my spirit. Though my body wanders, carried by horse and wind, where the clear starry chariot rolls higher above, where the sun barely sets below the earth's horizon, only to rise again, casting shorter shadows.</p>
+<p>Here, the high choir and its sacred altars shine, where the archbishop, cheered by many crowds, has long drawn earthly gods. Here reigns he who, with his displaced crown and raised helmet, defends the flat field, proudly wielding both staff and sword. Though Fortune has denied him the victory palm, and his scattered and fleeing army has often been defeated, when he, exhausted, changes horses, he still wrestles with the guns, pistols, and swords aimed at him, his war spirit undiminished. He still hopes, in time, to wrest the Roman eagle's claw, now perched on rich spoils, from the seized principalities.</p>
+<p>How unbelievable it seems to stop this force, which roars from the Danube to the Belt, washing away so much land and uprooting so many thrones. The Germans' slumber, softened by disgraceful mockery, will finally awaken to revenge. We have pondered this matter in every way: wandering through Lower Saxony on our journey, through forests sad with leaves and loud with nightingales, stretched with fear of danger, something strange happened to me. It was the end of May. The early dawn, with its saffron glow, gradually rose in the East, mixing light and dark. It was neither day nor night, but both together. The brooks in the forest murmured silver-clear, and leaves and foliage rustled with the creaking of the wagon, struck by a breeze, the harbinger of dawn.</p>
+<p>When suddenly, from the side of the forest, a noble lady emerged on her horse, accompanied by a retinue of dukes and counts, who, bound by loyalty, fled with her. As soon as she noticed us, she called out, "It's unwise, turn back!" She wanted to turn quickly before knowing if we were friend or foe. We called out, "Who are you? Stand firm and do not fear or flee from those who come from Holland, meaning no harm." She halted at these words and seemed pleased as soon as she heard the name Holland. She approached our carriage, not hesitating. Her face showed through the veil, and with her other hand, she wiped her tear-stained eyes. We spoke: "Noble lady, what furious misfortune, what disaster drives you here along these remote paths in the dim twilight?" "Alas!" she sighed, "I have been betrayed. German Freedom flees the realm. Where can we find refuge? We seek to save ourselves by sea. My peace is disturbed on her peaceful bed. Where can we find the place in the dunes, renowned worldwide for heroic bravery? Where my William shone in armor and taught Spain, drunk with Peruvian blood, how small it is to resist the Christian Monarchy. I could hardly bear to exile myself before Count Rudolf's bloodied spirit appeared to me at midnight, where I had stretched my limbs. 'Madam,' he said, 'never was I awakened by war's disasters and bloody defeats, by cries of murder and land-destroying plagues, as I am now by the murder so cruelly committed against me, which surpasses all oppression and cruelty. Where will true loyalty find refuge now? I handed my County to Austrian soldiers, and they loosened the reins as if I were everyone's slave; another had the deed, and I the name of Count. I am a sworn lord, a stranger sets my laws; they enthrone me, innocent, at rogue banquets, they murder me under the guise of internal strife. Foreigners start it; the lord of the land pays the price. My countly blood stains my hereditary field. And do you still sleep? And are you not yet awake? Go hide under the roof while the storm rages, where now a young man courts freedom with his fist. It has long been foretold that Germany's courage will falter: Freedom will retreat across the Rhine for a time, until Holland, with its allies, will restore it with strength and stability on the altar. Then you will shine, welcomed by your subjects. Up, up, and comfort my bride, who weeps in distress.' With this, the spirit disappeared. The haunting was over, and I, with this company, headed back here.</p>
+<p>So spoke the venerable lady, breaking her lament with sobs, drawn from her deep bosom with many sighs. I, moved to compassion by such great misfortune, could hardly respond before the whole forest burst with the roar and thunder, fire and lightning of muskets, and echoed with the sound of weapons, drums, and trumpets. Everyone fled their way. Fear of danger sought comfort in terror. No hiding place was too close. Here I lament: "Lord, how long, how long have you decided to give the earth to the plunder of the great, whose ambition eats the people's flesh like rust on iron? The innocent community stands on blood and sweat for their excessive splendor. To adorn themselves with a puppet, the wide world becomes a graveyard full of corpses, full of rot and stench. How do I find your purpose here? You see this from above and act slowly and coolly in punishing crimes and horrible deeds. Fortune constantly links a chain of misfortunes, and through this, raises the lesser powers to the top, only to quickly bring them down again. What will human folly decide on this matter? It pleased you to find rest only in your divinity, so that people seek you and despise vanity, which Heraclitus weeps for and Democritus laughs at. O unmovable axis, around which things revolve, who knows no motion, no matter what storms blow, grant my soul rest in your stability; while the earth here denies my feet peace." Speaking thus, I calmed down and hurried on my journey, the slightest rustle doubling my fear; then I wished to rest safely at home with my wife, then my brother's corpse gripped my tender heart with grief, then my spirit wandered with you in holy poetry! Then I prayed that Reael would not face violence or tyranny, now that he is taken prisoner to Prague, whose shipwreck disturbs the fatherland and you and me. I hope we will still see him safe, who will build my poetry with a heroic deed: if I am commanded to rhyme, I entrust you with the unrhymed, whose pen made the French hero live forever.</p>
+<h3>In the Sound, 1628</h3>
+<p>Another to the same.</p>
+<p>Bailiff of the high house of Muiden, if I stood where the southern sea crashes against your solid fortresses, as the northern wind roars, I would be more gently embraced by rest, in the shade of your alders, which have long been accustomed to sharply listen to the tone of your pleasant strings; tamers of the brackish waves; caressers of the sweet stream, leaves, praise, and roughness, and reeds; awakeners of the nightingales, who descend here in the branches; which the lark endures to envy. Whether it rests on green grass or its throat rises straight up, and imitates you precisely, as the swan preens its feathers in your wide water ditches, spurred on by your laments. One creature licks the other, dove and pigeon coo, purr and curl, and the sparrow chirps and twitters: and the pike, at the sweet sound, sticks its head out of the pond. Sometimes you choose the hexagonal house for your secluded retreat; and in this solitude, you are never less alone. In this retreat was born (it was so destined by your fate) the great fame of great Henry, and the greatness of his name came from this smallness, made swift by your pens, known wherever the German people are known by language or interpreter. Oh, how your little Christina was dearer than a ray of sunshine.</p>
+<p>The glances of your Leonore now surpass the starlight, and her whiteness and blush above lily leaves and roses; resting in your garden throne, and kissing her, sometimes boldly, sometimes shyly: which makes the little love gods laugh from under the foliage; because, just like your court, your lady (I won't keep it a secret any longer) is silently pregnant with a bailiff's child; for which she sometimes sighs, as she doubts whether she may sleep or live. If I stood, I wish again, in your garden and spacious hall, where I can imagine such great delights of your state; I would be at peace in my heart: but now anxiety and pain grip me, not living in the waves as a curse to be drowned.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/12","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/14","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/42","className":"underline","children":42}],[" ","to"," ",["$","$L7",null,{"href":"/page/47","className":"underline","children":47}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Joost van den Vondel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Pieter Corneliszoon Hooft"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"The restoration of German freedom"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1970"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"In de Sont"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=56,12.6","target":"_blank","rel":"noopener noreferrer","children":"56, 12.6"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Joost van den Vondel writes to Pieter Corneliszoon Hooft about the restoration of German freedom, describing the political and military struggles in Germany. He recounts a strange encounter with a noblewoman fleeing the turmoil and reflects on the broader implications of the conflict. Vondel expresses his hope for the future and his concern for their mutual friend, Reael, who has been captured and taken to Prague."]}]]}]]}]]}]]}]

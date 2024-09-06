@@ -1,0 +1,190 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","59","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","59","d"],{"children":["__PAGE__?{\"id\":\"59\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","59","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T1347,<p>Met water, schuim, en steen door zoo veel steene bogen,
+Gelijck een ronde kay ten bergh komt afgevlogen,
+En in de laeghte rolt. Uw yver en uw zorgh,
+Gedurigh in Godts oegst, vercieren Regensborgh,
+Daer ’t vierde regement van Rome voortijts waeckte,
+En onlangs Oostenrijck met kroon en scepter blaeckte
+Van gout en diamant; toen ’t Keurgezagh den Zoon
+Van Ferdinand verhief op ’s Roomschen Konings troon,
+Tot vreught van ’t Heiligh Rijck, en ’s Keizers onderdanen,
+Die, van den oorlogh wars, met volle vredevanen
+Onthalen hunnen heer, en zien den overvloet,
+Ons Duitschlant in den schoot gegoten, te gemoet.
+Den Hemel zy gelooft, die al de donkre wolcken
+Van Nydigheit verdrijft, en d’onderdruckte volcken
+Verheft, en overstraelt met deze zon van pais,
+Gerezen uit den troon van ’t Keizerlijck palais.
+Dat heet de vredekroon gelijck Augustus spannen.
+Nu groeit heel Christenrijk: nu schricken d’Ottomannen,
+Tot voor de poorten, daer de Groote Constantijn
+Het Kruis voorheene plante, en nu de maneschijn
+Van Mahomet den glans, de stralen van de Waerheit
+Zoo stout in ’t licht durf staen, en pooght ons middaghsklaerheit
+Te dooven met een’ damp, en vuilen smoock, en smet,
+Ja zelf daer Christus lest zijn voeten heeft gezet.
+Nu Duitschlant adem schept, na veel gelede smarten,
+Wil ’t zaet der letteren, in d’ackeren der harten
+Geworpen, jaer op jaer, ons kroonen met zijn vrucht,
+En spreien eenen geur van billijckheit en tucht,
+Godtvruchtigheit en trou ter stede, daer de spiessen,
+Geweer, en bussekruit, en scherpe distels wiessen.
+Men zal Athene zien herbouwt, van lant tot lant,
+Waer Pallas den olijf, gelijck een’ zegen, plant.
+In hare schaduw zal uw grijsheit noch ontluicken,
+En diep in wintersneeuw de zomerroozen pluicken:
+Want wie hier, levens zadt, versuft zit, en verduft;
+Uw brein, gelijck uw naem, blijft nieuw: uw out vernuft
+Wort jeugdigh, en verquickt, als zommige plantsoenen,
+En bladers, die al ’t jaer gedurigh blijven groenen.
+Uw yver voor geen’ last van letterarbeit zwicht;
+En onder zulck een pack van zwaericheén verlicht
+Het goddelijck muzijck, een strael van uwe gaven,
+Uw geest, die dickwils diep in boecken leit begraven,
+Gedompelt, en bedeckt: en vreemt waer ’t zoo men hier
+U, onder eenen zerck van godtgeleert papier,</p>
+<p>Niet overstullept vondt, of hooger dan de klocken,</p>
+<p>Gelijck een marmer beelt, zaegh staen, als opgetrocken,
+En in den geest verruckt: want zulck een letterhelt
+Versmaet het muffe bedde, en yvert om in’t velt</p>
+<p>Van starrelichte blaén, in ’t midden der geleden</p>
+<p>En benden, die voor d’eer van hun’ Verlosser streden,
+Te sterven met de schacht en veder in de hant,</p>
+<p>En onvertsaeght het gras te bijten met den tant.</p>
+<p>Zoo sterckte uw drift den Leeuw Alatius in ’t strijden,</p>
+<p>Gelijck een Grieksch Romain, en haelde d’oude tijden,
+En zeden, lang van gras en onkruit overgroeit,
+Geluckigh voor den dagh, zoo klaer als onvermoeit:</p>
+<p>Zoo voede uw milde pen de hongerige zielen,</p>
+<p>Die op den bloessem van uw blaen en brieven vielen,
+Als byen, op een velt, vol bloemen, dau, en kruit.
+Zoo hebt ghy lang, op ’t spits van redenen, gestuit</p>
+<p>Den vreesselijcken storm van ’t heir der duisternissen,</p>
+<p>En al wat zich vermomt met verwen en vernissen,</p>
+<p>In’t licht ten toon gestelt; de Hel de grijns gelicht.</p>
+<p>De Vaders hebben zoo van outs de Kerck gesticht;
+Het zy men Marcion Godts menscheit zagh verbasteren;
+Het zy Arrius tong de Godtheit dorst verlasteren,</p>
+<p>Op ’t spoor van Ebion: het zy Pelagius</p>
+<p>Den toevloet der Gena verriet met Judas kus;</p>
+<p>Zoo dickwerf hy Natuur, en ons gezwackt vermogen</p>
+<p>Te hoog in top verhief. De Waerheit en de Logen,</p>
+<p>Van ’s werelts aenvang af, elckandre ’t voorhooft boon;</p>
+<p>Gelijck mijn treurspel nu door Lucifer den troon
+Van ’t hemelrijck bestormt; daer Michaél van boven
+Den blixem op hem worpt, die angstigh in de kloven</p>
+<p>Der aerde zich versteeckt, en zijn wanschapenheit</p>
+<p>Geplondert ziet van glans en d’eerste Majestcit.
+Rechtschape dapperheit verduurt Godts tegenwrijters.
+Nu schept ghy ademtoght, in ’t midden van twee Myters,</p>
+<p>Wier gunst en zegen u gedyen tot een’ rugh;</p>
+<p>Keur Mentz aen d’eene zijde, aen d’andere Ozenbrugh,</p>
+<p>Twee Helden door hun deught zoo hoogh in top geklommen,</p>
+<p>Verstercken u, gelijck twee vierige kolommen.
+Mijn geest verlangt naer u, en dien gewenschten dagh,
+Dat ick uw aengezicht gezont aenschouwen magh.</p>
+<p>De jaren glyen hene, of vallen af, als bladers:</p>
+<p>De tijt wort niet gestuit. Zoo missen wy ons Vaders,
+En vrienden, dagh op dagh. De vrientschap is het zout,
+Het welck door zijne kracht gemeenschap onderhout.
+Ick wensch dat d’Engel, uw behoeder, u geleide,
+En voere, door woestijn, en over stroom en heide
+Geluckigh herwaert aen. Op zulck een bly gezicht
+Verwelkome u mijn lier met eer- en welkomdicht.</p>9:T112e,<p>With water, foam, and stone through so many stone arches,
+Like a round quay flying down from the mountain,
+And rolling into the valley. Your zeal and care,
+Constant in God's harvest, adorn Regensburg,
+Where the fourth regiment of Rome once watched,
+And recently Austria shone with crown and scepter
+Of gold and diamond; when the Electorate raised the Son
+Of Ferdinand to the throne of the Roman King,
+To the joy of the Holy Empire, and the Emperor's subjects,
+Who, weary of war, with full peace banners
+Welcome their lord, and see the abundance,
+Poured into Germany's lap, approaching.
+Heaven be praised, which drives away all dark clouds
+Of envy, and lifts the oppressed people,
+Illuminating them with this sun of peace,
+Risen from the throne of the Imperial palace.
+This is called the peace crown like Augustus' span.
+Now the whole Christian realm grows: now the Ottomans tremble,
+Before the gates, where the Great Constantine
+Once planted the Cross, and now the moonlight
+Of Mahomet dares to stand boldly in the light,
+And tries to extinguish our midday clarity
+With a mist, and foul smoke, and stain,
+Even where Christ last set his feet.
+Now Germany breathes, after much suffering,
+The seed of letters, sown in the fields of hearts
+Year after year, will crown us with its fruit,
+And spread a fragrance of justice and discipline,
+Piety and loyalty in the place where spears,
+Guns, and gunpowder, and sharp thistles grew.
+One will see Athens rebuilt, from land to land,
+Where Pallas plants the olive, like a blessing.
+In its shadow, your grayness will still bloom,
+And deep in winter snow, pluck summer roses:
+For whoever here, sated with life, sits drowsy and dull;
+Your mind, like your name, remains new: your old wit
+Becomes youthful, and refreshed, like some plants,
+And leaves, that stay green all year round.
+Your zeal does not yield to the burden of literary work;
+And under such a load of heaviness, lightens
+The divine music, a ray of your gifts,
+Your spirit, often buried deep in books,
+Submerged, and covered: and strange it would be if here
+One did not find you, under a tomb of godly paper,
+Or higher than the bells,
+Like a marble statue, standing, as if lifted,
+And raptured in spirit: for such a literary hero
+Despises the musty bed, and strives to be in the field
+Of starry pages, in the midst of the suffering
+And troops, who fought for the honor of their Redeemer,
+To die with the shaft and feather in hand,
+And undaunted bite the grass with the teeth.
+Thus your passion strengthened the Lion Alatius in battle,
+Like a Greek Roman, and brought the old times,
+And customs, long overgrown with grass and weeds,
+Happily to light, as clear as tireless:
+Thus your gentle pen fed the hungry souls,
+Who fell upon the blossom of your pages and letters,
+Like bees, on a field, full of flowers, dew, and herbs.
+Thus you have long, at the peak of reason, halted
+The dreadful storm of the army of darkness,
+And all that disguises itself with colors and varnishes,
+Exposed in the light; Hell bared its grin.
+The Fathers have thus of old established the Church;
+Whether one saw Marcion debase God's humanity;
+Whether Arius dared to blaspheme the Godhead,
+Following Ebion's path; whether Pelagius
+Betrayed the influx of Grace with Judas' kiss;
+So often he raised Nature, and our weakened power
+Too high in the top. Truth and Falsehood,
+From the world's beginning, have confronted each other;
+As my tragedy now by Lucifer the throne
+Of the heavenly kingdom storms; where Michael from above
+Throws the lightning on him, who anxiously hides in the crevices
+Of the earth, and sees his deformity
+Plundered of splendor and the first Majesty.
+Righteous bravery endures God's opponents.
+Now you take a breath, in the midst of two Miters,
+Whose favor and blessing prosper you as a support;
+Elector of Mainz on one side, on the other Osnabrück,
+Two Heroes by their virtue so high in the top,
+Strengthen you, like two fiery columns.
+My spirit longs for you, and that desired day,
+That I may see your face healthy.
+The years glide away, or fall off, like leaves:
+Time is not halted. Thus we miss our Fathers,
+And friends, day by day. Friendship is the salt,
+Which by its power maintains community.
+I wish that the Angel, your guardian, guides you,
+And leads you, through wilderness, and over stream and heath
+Safely here. At such a happy sight
+My lyre will welcome you with honor and welcome song.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/58","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/60","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/128","className":"underline","children":128}],null]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Praise for the city of Regensburg and its contributions to peace and scholarship"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1970"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"The letter praises the city of Regensburg for its historical and contemporary significance, particularly in terms of its contributions to peace and scholarship. It reflects on the city's past under Roman and Austrian rule, its role in the Holy Roman Empire, and the flourishing of learning and virtue. The letter also touches on the broader Christian world, the decline of Ottoman power, and the enduring value of friendship and intellectual endeavor."]}]]}]]}]]}]]}]

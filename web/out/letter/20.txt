@@ -1,0 +1,184 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","20","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","20","d"],{"children":["__PAGE__?{\"id\":\"20\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","20","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:Tde3,<h2>HOOFT AAN BAECK.</h2>
+<h3>1630, 29 Augustus.</h3>
+<p>Wat jck aen Vondelen schrijf, kan UE. by den ingesloten zien, denzelven daernae sluiten, ende hem behandigen.</p>
+<p>Als voren.</p>
+<h3>1630, 30 Augustus.</h3>
+<p>Vondelen heeft my geantwoort, ende zal hem zelf dienen te spreken.</p>
+<h2>VONDEL AAN JACOB BAECK’).</h2>
+<p>Herfst 1630?</p>
+<p>Danckdicht aen Jacob Baeck, Rechtsgeleerde,
+Voor zijn schoone appelen, mij met een gedicht toegezonden.</p>
+<p>Geleerde en heusche Jongeling,
+Met uwen appelkorref ging
+Mijn hart op, door het groot genoegen
+Aan uw met rym gestroide vrucht:
+Getuige van d’oprechte zucht,
+Die oit de BaECKEN tot mij droegen.</p>
+<p>Ghy geeft my weder nieuwe stof,
+Om boven Hespers gouden hof
+Uw vaders boomgaard te waardeeren;
+Waar in mijn ziel zoo menighmaal
+Geprickt wiert van een heldren straal,
+Om uit de borst te quinckeleeren.</p>
+<p>Zoo veelerley genoten goet
+Verplicht mijn overtuight gemoet
+U weder danckbaar te gemoeten,
+En met een schaamroot maatgedicht
+En neergeslagen aangesicht
+Voor alle weldaén te begroeten.</p>
+<p>Uw hofsteé streckt een Helikon:
+Uw klare Beeck een Hengstebron,
+Tot laafnis van mijn dorstige ader;
+Het zy ick op mijn Duitsche wijs
+Het huis vol schrandre kindren prijs,
+Of hunne moeder of den vader.</p>
+<p>Myn geest benevelt en verwart,
+Vont t’elckens daar een open hart,</p>
+<p>My noodigende, om toe te tasten
+Naar hofbancket en lecker ooft,
+En wat de boomgaart meer belooft
+Zijn altijt wellekome gasten.</p>
+<p>Toen ick vervloeckte waarheit sprack
+Verstreckte my uw vaders dack
+Een toevlught, als self magen weken
+En deisden, morrende en verstoort,</p>
+<p>En weigerden ter noot een woort
+Voor mijn onnozelheid te spreken.</p>
+<p>Uw broeder schaft my dikwils kost
+Van Huigens, of den Muider Drost,
+En blaackt, gelijck zijn gemalinne
+In liefde tot de Poézy,</p>
+<p>En zuight haar zuivre borst; en ghy
+Laaght jonck en teér bij haar te minne.
+Ghy waart mijn broeders reisgezel,</p>
+<p>En zaaght de wereld en haar spel,
+En holpt hem hooge bergen banen,
+En vond Urbaan in ’t gulden jaar,
+En naamt de grijze aaloudheit waar,
+En leerde spreecken met Tuskanen.</p>
+<p>Uw brein ontwart ’t verwarde Recht,
+En stryckt krackeelen vlack en slecht,
+En heeft de heelzame artzenyen
+Doorkropen, niet ter loop noch los:
+Oock hangt het aan den mont van Vos,
+En smeet een reex van d’oude tyen.</p>
+<p>Uw aangename tonge sluipt
+Den maaghdeboezem in, en druipt
+Van honigh en bevallicheden;</p>
+<p>Ghij schift het wijze van het dwaas,
+Wanneerge met den wijzen Haas,
+Door gras en bloemen heen gaat treden.</p>
+<p>Maar schuwende der steden smet,
+Verschalcktge nu met strick en net
+Een vette snip, of slechte lijster;
+Terwijl uw zuster liedtjes zingt.</p>
+<p>Dan ’k wou ghy beide uw zinnen hingt,
+Aan eenen vryer of een vrijster.
+Zoo moght ick voor u henegaan,
+En stroyen ‘t pat met roozeblaén
+En maaghdepalm, en lauwerieren.
+Mijn opgeweckt vernuft, ick wedt
+Zou dan uw weeligh bruiloftsbedt
+Met puick van Poézy vercieren.</p>
+<hr>
+<h2>HOOFT AAN BAECK’).</h2>
+<h3>1631, 27 April, Muiden.</h3>
+<p>Het vraegdicht der Academie, dunkt my een van die krygs-
+granaten, die zwanger met doodt en verderf, niet en baren, om
+ter wereld te brengen, maer om daer ujt te helpen. ’t Geen hier
+in te rugge keert, is een felle kerne, die jck wenschte dat liever
+de twist verdelgde, als ’er ’t vier in schoot. Ick kan niet vernemen,
+dat tot noch toe, eenighe vyant, ujt vreeze van dit wapentuigh,
+zich opgegeven heeft. Lukt het voortaen beter, ’t zal my meer nae
+myn’ zin als nae myn gissing gaen.</p>9:Tce5,<h2>HOOFT TO BAECK.</h2>
+<h3>August 29, 1630</h3>
+<p>What I wrote to Vondel, you can see in the enclosed letter. Please seal it and deliver it to him.</p>
+<p>As before.</p>
+<h3>August 30, 1630</h3>
+<p>Vondel has replied to me and will need to speak with him personally.</p>
+<h2>VONDEL TO JACOB BAECK</h2>
+<p>Autumn 1630?</p>
+<p>A thank-you poem to Jacob Baeck, Lawyer,
+For his beautiful apples, sent to me with a poem.</p>
+<p>Learned and courteous young man,
+With your basket of apples,
+My heart was filled with great joy
+From your fruit adorned with rhyme:
+A testament to the sincere affection
+That the Baecks have always shown me.</p>
+<p>You give me new inspiration,
+To value your father's orchard
+Above the golden garden of Hesperides;
+Where my soul was often touched
+By a bright ray,
+Prompting me to sing from my heart.</p>
+<p>So many enjoyed goods
+Oblige my grateful heart
+To thank you in return,
+And with a modest poem
+And a humble demeanor
+To greet all your kindness.</p>
+<p>Your estate is like a Helicon:
+Your clear brook a Hippocrene,
+To quench my thirsty spirit;
+Whether I praise in my German way
+The house full of clever children,
+Or their mother or father.</p>
+<p>My mind becomes clouded and confused,
+Whenever an open heart invites me,
+To partake in the garden feast and delicious fruit,
+And whatever else the orchard promises
+To its always welcome guests.</p>
+<p>When I spoke the cursed truth,
+Your father's roof provided me refuge,
+As even relatives withdrew
+And hesitated, grumbling and upset,
+Refusing to speak a word
+In defense of my innocence.</p>
+<p>Your brother often provides me with food
+From Huygens or the Muider Drost,
+And burns with love for poetry,
+Just like his wife,
+And drinks from her pure breast; and you
+Laugh young and tenderly in her company.
+You were my brother's travel companion,
+And saw the world and its games,
+And helped him navigate high mountains,
+And found Urban in the golden year,
+And observed ancient history,
+And learned to speak with Tuscans.</p>
+<p>Your mind untangles complicated laws,
+And smooths out disputes,
+And has thoroughly studied the healing arts,
+Not hastily or carelessly:
+You also listen to the words of Vossius,
+And weave a series of old times.</p>
+<p>Your pleasant tongue slips
+Into the maiden's heart, dripping
+With honey and charm;
+You distinguish the wise from the foolish,
+When you walk with the wise Hare,
+Through grass and flowers.</p>
+<p>But avoiding the city's stain,
+You now catch a fat snipe or a poor thrush
+With trap and net;
+While your sister sings songs.
+I wish you both would devote your minds
+To a lover or a beloved.
+Then I could go before you,
+And strew the path with rose petals
+And maiden palm, and laurels.
+My inspired mind, I bet,
+Would then adorn your safe bridal bed
+With the best of poetry.</p>
+<hr>
+<h2>HOOFT TO BAECK</h2>
+<h3>April 27, 1631, Muiden</h3>
+<p>The question poem of the Academy seems to me like one of those war grenades, pregnant with death and destruction, not to bring forth life, but to help it out. What turns back here is a fierce core, which I wish would rather destroy the conflict than ignite it. I cannot perceive that so far, any enemy, out of fear of this weaponry, has surrendered. If it succeeds better in the future, it will please me more according to my desire than my guess.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/19","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/21","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/68","className":"underline","children":68}],[" ","to"," ",["$","$L7",null,{"href":"/page/71","className":"underline","children":71}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Pieter Corneliszoon Hooft"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Jacob Baeck"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Discussion about a poem and its impact"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1631"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Muiden"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=52.3386,5.0711","target":"_blank","rel":"noopener noreferrer","children":"52.3386, 5.0711"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Hooft discusses a poem from the Academy, comparing it to a grenade filled with death and destruction. He expresses a wish that the core of the poem would help end disputes rather than ignite them. He notes that no enemy has yet surrendered out of fear of this 'weapon' and hopes for better results in the future."]}]]}]]}]]}]]}]

@@ -1,0 +1,86 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","5","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","5","d"],{"children":["__PAGE__?{\"id\":\"5\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","5","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T11c1,<h2>WILLEM VAN DEN VONDEL AAN ZIJNE MOEDER.</h2>
+<h3>1625, 15 Maart, Rome.</h3>
+<p>Looft Godt. In Romen den 15 Meert A. 1625.</p>
+<p>Eerwaerde hertelijcke zeer beminde Moeder, ick hebbe ul voor 14 dagen verwittight van mijn goede dispositie en het verlangen naer ul brieven. Dat ick ul soo dickmaels schrijf sult gij zeggen is of te grote affectie of te weynigh verstant, doch ick verseecker ul dat het eerste ul staet te gelooven niet het laetste. Voor 4 of 5 dagen is het mij geluckt u brieff te ontfangen en de blijde tijdinge van ul welvaren en onzer familie gesondheyt, die mij grootelicke aen God den heere verschuldight heeft, daer gebreeckt niet als mijn broeders gesondheyt die ick wensche en tegemoet sie. Dat de pest nu op 150 menschen ter weecke gekomen is, doet dat ick ul dese storm sie doorgestaen te hebben, en buijten perijckel te syn. De hertelycke vermaningen hebbe ick gelesen met het gemoet daer mede sy my geschreven waren, ik ben danckbaer en sal steets danckbaer syn, en genegen om die te volgen. ul roept mij in Vranckryck en van daer ’thuys te meer om dat ul eensaem sonder my sal wonen in de bergstraet; ick sal hier in meer ul begeerte volgen als de mijne, en niet nae de reden vragen die ul daer toe heeft omdat het ul wil is. vertroostende dat verdriet met het goed van ul gehoorsaemt te hebben. De oorsaecke dat ul mij niet eer of meer geschreven heeft schynt te syn om dat ul niet geweten heeft waer ul mij hier beschrijven soud daer ick over ben verwondert alsoo het my dunckt genoech te syn dat J. Baack hier te beschrijven is en hij mij hier weet genochsaem te vinden, so dat niet anders van node was als tot Baeckx in te sluyten dat ul voortaan doen kunt, ’t sy ick Siena ben of elders. H. Swol is voor 8 dagen vertrocken, de brief van mijn broeder is hem na ge-
+sonden, ick soude mede vertrocken sijn geweest ten ware my hier
+gehouden hadde de groote voorbereydselen van het Canonizeren
+der koninghin van portugael Elisabeth tegen Paessen. Mijn
+broeders brief brenght my een onverwachte tydinge van Reynier
+Wibrantsz soon voor waer het heeft mij gealtereert; ellendige
+Vader, ellendiger Zoon, hij kome te Romen soo sal hij wel weder
+anders worden, interim hy kan mij hier gebruijcken indien hij een
+schip met aflaet bullen wil afgesonden hebben, en indien ick het
+om de port niet liet ick sond hem een steentjen dat ick van de
+heylige poort bewaert hebben. Soo terstond ontfange ick een
+andere brief van mijn broeder daer ut ick verstae hoe ul eenige
+pijn in de rugge voelde dat mij hier wee doet, ick kan niet meer
+als voor ul beternisse bidden. Myn broeder hadde een jonge doch-
+ter gekregen. Mijn suster Sara noch dochter noch soontjen. Dit is
+dat ick ul hadde te antwoorden meer weet ick niet; derhalven
+syt nae groetenisse God bevolen, groet seer myn swagers en sus-
+ters, mijn nepos J. van Zon, Anneken nicht die nu van de koorts
+verlaeten is en haer suster Sara, en het geselschap van de lieve
+Jongens tot mijn susters.
+Ul Onderd. Zoon G. V. Vondel.</p>
+<p>Datum als boven.</p>
+<p>Eersame gunstige frere en Maseurtje Bruyninghs in groete-
+nisse en wenschinge alles goeds refereer ick my tot het boven
+geschrevene. Dese sal alleen dienen om ul te doen hebbe enige
+weynich regels daer ick het afsterven van ul susters mede ben
+gedachtigh geweest; voor 8 dagen hebbe ick de tydinge bekomen
+van de dood us overgebleven susters en broeders, ick hebbe ge-
+docht, of in Amsterdam wel so rampspoedigen huys gemaeckt is
+gedurende dese sieckte, ick hebbe niet geweten wat ick eerst be-
+schreyen soude. In ul rust nu de hoop van de bedruckte Ouders,
+die weder op kost rechten hetgeen soo deerlyck gevallen is, dat
+ick wensche en verwachte. Ondertusschen leeft langh in liefde
+en eendracht samen, en groet uijt mijnen naem Vader en Moeder.</p>
+<p>O kuijsche sielen, die scheyt, gij en kiest omhooge
+'t gestoelt wedrom daer wt dat gij gekomen waert;
+de lycken laet gy ons, die wy bevelen d' aerd
+met een roudragend hert en rood geswollen oogen.</p>
+<p>Maer schoon de bitse dood u sonder mede doogen
+heeft voor den avondstond soo droeven nacht bereyd,
+en in u soete April des levens bloem gemeyt,
+Wy volgen u nochtans met suchten opgetoogen
+gy dringht de Wolcken door daer gy gewelkomt word,
+krijgh den verdienden palm, en word met licht omgord.
+met niewe sy gehuyft, vergoodet over al,</p>
+<p>slaet gy de handen aen de Maeghdelijcke Reyen</p>
+<p>en singht een hooger lied, en geeft ons die wy schreyen
+geen afgunst van u vreught: klacht van ons ongeval.</p>
+<p>WILLEM VAN DEN VONDEL AAN ZIJN
+BROEDER JOOST.</p>9:Tfdb,<h2>WILLEM VAN DEN VONDEL TO HIS MOTHER</h2>
+<h3>March 15, 1625, Rome</h3>
+<p>Praise God. In Rome, March 15, 1625.</p>
+<p>Dearly beloved Mother, I informed you 14 days ago about my good health and my eagerness to receive your letters. You might say that I write to you so often either out of great affection or lack of sense, but I assure you it is the former, not the latter. Four or five days ago, I was fortunate to receive your letter and the joyful news of your well-being and our family's health, for which I am greatly indebted to God. The only thing missing is my brother's health, which I hope and pray for.</p>
+<p>The fact that the plague has now affected 150 people per week makes me grateful that you have weathered this storm and are out of danger. I read your heartfelt admonitions with the same spirit in which they were written. I am thankful and will always be grateful, and I am inclined to follow them. You call me to France and then home because you will be lonely without me in the Bergstraat. I will follow your wishes more than my own and will not question your reasons because it is your will. I will comfort myself with the good of having obeyed you.</p>
+<p>The reason you have not written to me sooner or more often seems to be that you did not know where to address your letters here. I am surprised by this, as it seems enough to address them to J. Baack, who knows how to find me here. So, you only need to enclose them to Baack from now on, whether I am in Siena or elsewhere.</p>
+<p>H. Swol left 8 days ago, and my brother's letter was sent to him. I would have left too if I had not been held here by the great preparations for the canonization of Queen Elizabeth of Portugal at Easter. My brother's letter brought me unexpected news about Reynier Wibrantsz's son, which greatly disturbed me. Poor father, even poorer son. If he comes to Rome, he will be changed for the better. In the meantime, he can use my help here if he wants to send a ship with indulgence bulls. If it weren't for the cost, I would send him a small stone I kept from the Holy Door.</p>
+<p>Immediately, I received another letter from my brother, from which I understand that you felt some pain in your back, which saddens me. I can only pray for your recovery. My brother had a young daughter. My sister Sara has neither daughter nor son. This is all I had to answer; I know nothing more. Therefore, after greetings, I commend you to God. Greet my brothers-in-law and sisters, my nephew J. van Zon, cousin Anneken who has now recovered from the fever, her sister Sara, and the company of the dear boys at my sister's.</p>
+<p>Your obedient son, G. V. Vondel.</p>
+<p>Date as above.</p>
+<p>Honorable and kind brother and Maseurtje Bruyninghs, in greetings and best wishes, I refer you to the above. This letter is only to give you a few lines, as I have been reminded of the death of your sisters. Eight days ago, I received the news of the death of your remaining sisters and brothers. I wondered if such a calamity had ever struck a house in Amsterdam during this illness. I did not know what to mourn first. In you now rests the hope of the distressed parents, who look forward to what has so painfully happened, which I wish and expect. Meanwhile, live long in love and harmony together, and greet Father and Mother in my name.</p>
+<p>O chaste souls, who depart, you choose to ascend
+to the place from which you came;
+you leave us the bodies, which we entrust to the earth
+with a grieving heart and tear-swollen eyes.</p>
+<p>But though bitter death has prepared such a sorrowful night
+for you before the evening,
+and has mowed down the flower of life in your sweet April,
+we follow you with uplifted sighs.
+You pierce the clouds where you are welcomed,
+receive the deserved palm, and are girded with light.
+With new wings, you are glorified everywhere,</p>
+<p>you join the ranks of the virgins</p>
+<p>and sing a higher song, and give us who weep
+no envy of your joy: only lament for our misfortune.</p>
+<p>WILLEM VAN DEN VONDEL TO HIS
+BROTHER JOOST.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/4","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/6","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/32","className":"underline","children":32}],[" ","to"," ",["$","$L7",null,{"href":"/page/34","className":"underline","children":34}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Willem van den Vondel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"His mother"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Personal updates and family matters"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1625"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Rome"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=41.9028,12.4964","target":"_blank","rel":"noopener noreferrer","children":"41.9028, 12.4964"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Willem van den Vondel writes to his mother from Rome, updating her on his well-being and expressing his longing for her letters. He mentions receiving a letter from her with good news about the family's health, except for his brother's health, which he hopes will improve. He discusses the plague situation in Rome, his plans to return home, and the recent death of his siblings. He also sends greetings to other family members and reflects on the loss of loved ones."]}]]}]]}]]}]]}]

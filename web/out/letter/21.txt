@@ -1,0 +1,50 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","21","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","21","d"],{"children":["__PAGE__?{\"id\":\"21\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","21","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T687,<h2>HOOFT AAN BAECK °).</h2>
+<h3>1631, 29 Juli, Muiden.</h3>
+<p>Heden had jck hier D. Coster, om my eenighe besonderheit
+van den slagh van Heiligherlee, ... te verrekenen... Vondelen
+quam met eenen, ende dunkt my dat ze bejde hun bujk van
+[d’Academie] vol hebben, doch weet niet eighentlijk waer ’t hun
+schort.] Nae dat ze my ’t ontkomen der gevange Leeraeren op
+Loevestein verhaelen, is ’t geen’ gemaekte mouw geweest: ’t welk
+jck verhoopt had, om daer ujt een’ geneghenheit der alghemeene
+Staeten tot matighing te besluyten.</p>
+<h2>HOOFT AAN BAECK).</h2>
+<h3>1631, 19 Augustus, Muiden.</h3>
+<p>Hiernevens gaet ook antwoort op Vondeles brieven, ’t welk jck
+gesloten heb, omdat er niet besonders voor U E. in en is.</p>
+<h2>HOOFT AAN BAECK).</h2>
+<h3>1631, 25 Aug.</h3>
+<p>’t Boexken van d’inquisitie is my welkoom. Vondele zeint er
+eenen kluchtighen brief by, dien jck UE. toeschikke om den deun,
+ende quansuis te toonen dat van hier ook wat nieuws komen kan.
+Maer die dient niet verslingert, om dat een quaetwillighe daer
+yet aenstotelijx ujtzuighen moght. Wel is waer, dat de schrijver
+zich aen geen kleentjen en stoot; maer om andere inzichten hier
+te lang.</p>
+<h2>HOOFT AAN BAECK</h2>
+<h3>1631, 10 September.</h3>
+<p>Vondele meend’ het laestmael heel vast te hebben van ’t ujt-
+koomen der Boeken van Grootius. Nu heeft hy naeder tyding daer
+tegens strydende. Hy zeidt dat de zelve H. de Groot loflijk ge-
+tuight van Floris van der Haers Historién. Niettemin mijn ge-
+voelen is, dat daer geen meerder klaerheit bij wezen kan van de
+beginselen der beroerten, als ujt onzen Walschen schrijver, hy
+zy Hopperus oft een ander gespeurt wort.</p>9:T616,<h2>HOOFT TO BAECK</h2>
+<h3>July 29, 1631, Muiden</h3>
+<p>Today I had Mr. Coster here to discuss some details about the Battle of Heiligerlee. Vondel came along, and it seems to me that they both have their heads full of [the Academy], but I don't really know what they're missing. After they told me about the escape of the imprisoned teachers at Loevestein, it seems it wasn't a fabricated story, which I had hoped for, to decide on a general inclination of the States towards moderation.</p>
+<h2>HOOFT TO BAECK</h2>
+<h3>August 19, 1631, Muiden</h3>
+<p>Enclosed is also a response to Vondel's letters, which I have sealed because there is nothing special in it for Your Excellency.</p>
+<h2>HOOFT TO BAECK</h2>
+<h3>August 25, 1631</h3>
+<p>The book on the Inquisition is welcome. Vondel sent a humorous letter with it, which I am forwarding to Your Excellency to show that some news can come from here too. But it should not be spread around, as a malicious person might extract something offensive from it. It is true that the writer does not shy away from small matters, but for other reasons, it is too lengthy to discuss here.</p>
+<h2>HOOFT TO BAECK</h2>
+<h3>September 10, 1631</h3>
+<p>Vondel was very confident last time about the publication of Grotius's books. Now he has received conflicting news. He says that the same Mr. Grotius speaks highly of Floris van der Haer's Histories. Nevertheless, my opinion is that there can be no clearer account of the origins of the disturbances than from our Walloon writer, whether it is Hopperus or another.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/20","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/22","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/71","className":"underline","children":71}],[" ","to"," ",["$","$L7",null,{"href":"/page/73","className":"underline","children":73}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Pieter Corneliszoon Hooft"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Baeck"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Various updates and discussions on contemporary events and literature"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1970"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Muiden"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=52.3342,5.0711","target":"_blank","rel":"noopener noreferrer","children":"52.3342, 5.0711"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"The letters discuss various topics including the Battle of Heiligerlee, the escape of prisoners from Loevestein, responses to Vondel's letters, the arrival of a book on the Inquisition, and updates on the publication of Hugo Grotius's books. Hooft also mentions the importance of Floris van der Haer's histories and the clarity provided by their accounts."]}]]}]]}]]}]]}]

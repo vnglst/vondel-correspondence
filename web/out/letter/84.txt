@@ -1,0 +1,270 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","84","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","84","d"],{"children":["__PAGE__?{\"id\":\"84\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","84","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T368e,<p>Als voren.
+1683, 11 Maart.
+[Over het gebruik van twee letters door Brandt. Verder:] Maar
+waarom dan hier ook niet reis op reis vaader geschreven in sté
+van vader? Of mishaagt u dit alleen, om dat Vondel het juist
+genoemd heeft in zyne waarschouwinge voor de Nederduitsche
+misspellinge en walgelyke verdubbeling van klinkletteren?</p>
+<hr>
+<h2>OUDAAN AAN G. BRANDT’).</h2>
+<h3>1682, 11 December.</h3>
+<p>[Hij is voornemens] eenige aanmerkingen over de beschryving
+van het Leven van J. v. Vondel te doen invloeijen: de welke maar
+ter loops in het lezen hebbende waargenomen, eene tweede herlee-
+zing, met meerdere aandacht, noodig hadden; en waar toe in een
+geruijme tijd de zinnen niet wel heb kunnen zetten. Uijt welke
+premissen voor af, Uw’E. zien kunt dat ik het zelve Leven heb
+ontfangen; doch alzoo ik het zonder eenige aanschrijving, en by ongeval myner afwezigheijd, zonder met den Brenger te spreken, te mynen huijze heb gevonden, zoo heb, tot die tijd toe, niet geweten of ik het aan den Schrijver, of aen den drukker verschuldigt bleef; en derhalven tot noch toe daar over in mijn plicht te kort geschoten, ’t geen dan nu met dankelijke erkentenisse gaarne wil vergoeden, en mij daer over verontschuldigt hebben.</p>
+<p>Vondels Geboorte-jaar wordt gestelt op het jaar 1587, volgens het gene hy zelf in d’opdracht van Maria Stuarts treurspel te kennen geeft; doch hierin heeft my altijd geschenen eenige duijsterheyd te leggen, om dat, wanneer het Sterfjaar van M. Stuart word genomen op het jaar 1587 na den Engelschen stijl, dit bij ons het jaar 1588 is; dewijl het jaar, en de telling deszelfs, in Engeland met den goeden Vrijdag, ofte Pascha, verandert, en tot d’andere telling overgaat; zoo dat Vondel in November geboren zijnde, noodwendig, volgens d’Engelsche telling, in den jare 1588 geboren is.</p>
+<p>Of het Treurdicht, over de moord van Hendrik den Groten, den zelven jare van 1610 toe te schrijven sta, ofte veellicht ter gedachtenisse eenige wat later tijd, is bij mij bedenkelijk, om dat geen eenig werk, of vaars, van dien tijd, en vinde, dat, op verre stukken na, de vinding, de rijkheijd der gedachten, en kracht en bewoording der zelve, ophalen kan; en men daar uijt zou dienen te besluijten, dat Vondel alsdan, in eenige jaren, niet alleen niet voorwaarts, maar ook eeniger maten achterwaarts had geleerd.</p>
+<p>Den Gulden Winkel hebbe ik gedrukt bij D. P. Pers in den jare 1613 in 4to dat ik meen d’eerste druk te zijn.</p>
+<p>In de ongesteltenisse (’t zij pag. 16, of misschien pag. 25 aangewezen) wierd hem, tot herstelling zijner gezondheijd voorgeschreven, dat hij zich van te groote bezigheijd, of inspanning der gedachten, bijzonder omtrent de Poésij, af moest houden, waar op hij t'antwoord gaf, heet mij liever sterven. dit heb ik uijt de mond, en bij verhaal van Daniel de Breen. Pag. 18. ’t aanraden van iemand, daar men ’t noijt van zouw vermoeden. ’t Is jammer dat ons deze iemand onthouden word: ten zij dat het de Heer Albert Koenraads Burg zelf zij, om ’t geen’er aan volgt; als ook om ’t geen breeder hier van, pag. 22. D.d.B. betekent bij mij ontwijffelijk Daniel de Breen; dewijl ik den zelven van Willem van de Vondel, als van zijnen grooten en zeer gemeenen Vriend, heb hooren gewag maken.</p>
+<p>De redenen van ’t lang achterweeg blijven, en eijndelijk vernietigen, van Konstantijn kunnen verscheijden zijn geweest; onder anderen heb ik uijt den zelven D. de Breen, dat hij meende
+dat Vondel eijndelijk heeft beginnen te zien, dat Konstantijn zoo-
+danig de man niet en was, als hij zich in ’t eerst wel had inge-
+beeld, en voorgestelt, en dat het met hem, Vondel, voornament-
+lijk begon te haperen, toen hij aan ’t stuk van den zoon Crispus,
+met de Stief-moeder Fausta quam; beijde daar over van Konstan-
+tijn, d’eerste uijt blinde drift en minne-ijver, en d’andere uijt heete
+wraakzucht, ter dood gebracht; daar hij met goed gevolg niet van
+zag te maken, om zijnen Held buijten opspraak te houden, of voor
+zoo groot en heijlig te doen henen gaan, als hij hem in ’t eerst
+had opgeheven. doch wat hier van zij, wij moeten dit, gelijk veel
+onzekerheden, de inwindselen des tijds bevolen laten.</p>
+<p>In d’opdracht van ’t Treurspel der Gebroederen, vind men
+deze woorden: Een zeker Godgeleerde laat zich dunken etc.; deze
+Godgeleerde is de nu meermaals gemelde D. de Breen, wegens
+getuijchenisse uijt zijn eygen mond.</p>
+<p>In het Treurspel van Maria Stuart dunkt mij niets dat hen
+dwerser in ’t oog geloopen, of bitterder geprikkelt heeft, als deze
+Reij, tusschen het Tweede en Derde Bedrijf, daar de naijver, of
+eygentlijk de koninginne Elisabeth, me beschreven word, In ’t
+schuijm der Kaledonsche baren, etc. Pag. 61 in ’t optellen van de
+Kinderen, en Afkomelingen van Vondel, worden vermeld zyne
+zoons twee zoonen en eene dochter (die damaals bij den Groot-
+vader woonden, en in de bloem hunner jeugd overleden) gelijk
+aldaar gezegt word. maar waar van daan dan den zoon, op pag.
+72 gedacht? ’t en zij misschien, uijt zyns zoons tweede huwelijk
+geboren, dat mijns opmerkens, nergens is verhaalt, en wel wat
+uytdrukkelijker had mogen aangewezen worden; of’er noch an-
+dere Nakomelingen van zoo vermaarden man voorhanden zijn,
+dan of hier me de stam dood en ten eynde is.Pag. 63. Dees (niet
+waardig dat men zijnen naam hier melde). Ik neem er Jan Vos
+voor (mis ik, onderrecht mij), die daar hij als een dommen Os,
+naulijks anders heeft kunnen doen dan bulken en loeijen, waande
+dat hij alles te boven gestegen was; maar hoe verre zijn wan-
+schepsels beneden de welgevormde evenbeelden onzes grooten
+Dichters lagen, meen ik, op het voorval der gelijk-uytkomende
+Treurspelen (zoud’ ik wel zeggen, maar, Treurspel, en dollemans
+raasgetij, zeg ik beter) van Noack en Medea, in een brief aan
+onzen heerlijken Voorganger zelve aangewezen te hebben, die’er
+mij, met zijne antwoord, ook geen ongenoegen aan heeft betoont,
+en zoo ik mij niet bedriege, zich bij zich zelve verheugt, dat hij
+zich in ’t oordeel van anderen over d’onheuscheijd bij dezen man
+geleden, gewroken vond.</p>
+<p>Van de Lierdichten had ik’er eenige wel gewenscht, in zijn
+155</p>
+<p>levens verhaal, met wat naukeuriger aanmerking uijtgekipt ge-
+zien; om datse mij, om haar stoffe, of indruks ... de gedachten,
+boven anderen hare opmerking waardig schijnen, als bij voor-
+beeld het Gedicht op den Rijn, zijn Geboortestroom, om de on-
+bedenkelijke heerlijkheijd daar in te weeg gebracht; het Gedicht
+nevens zijne Afbeelding, aan den Heer Directeur Generaal Hulsft
+naar Oost-Indien gezonden, waar in, door een droom, de dood
+des Heeren Generaals verbeeld word, zeer op de zelve wijs als
+men naderhand heeft verstaan datse zich heeft toegedragen:
+zijnde dit Vaars ten huijze van de Bloed-vrienden, meer dan een
+half jaar te voren, eer ze hier eenige de minste tijding van ver-
+stonden; De Triomf van Koppenhagen, of de Noordsche Nim-
+roth etc., waarvan gezegt word, dat het den Koning van Zweden
+zoodanigen hartneep gaf, dat hy’er van betuijgde, dat het deze
+en diergelijke schriften waren, die zijnen Naam met een onver-
+zettelijken naamsmet brandmerkten, en in eeuwige gedachtenisse
+van verachting hielden; en voor al onder de Vaarzen van zijn
+laatste jaren het Vredevaars, met de naam van Staats-pilaar; ’t
+geen voor zeker houd dat de stoffe gegeven heeft van klachte,
+in de jongste Declaratie van Oorlog des Konings van Engeland;
+waarin mede van opgerechte Pilaren gewag word gemaakt; die
+Majesteijt, zoo vermoedelijk is, van zijne oorblazers op eenig los
+gerucht in ’t hoofd gehangen. En ’t geen t’eeniger tijd Onzen
+Patroon bij mij te gemoet gevoert, hem met geen gemeene drift
+gekittelt heeft.</p>
+<p>En dit zijn zoo mijne gedachten, mij onder ’t lezen te binnen
+gekomen; de welke hier in vrijmoedigheyd uijtte, gelijk men onder
+gemeenzame Vrinden plag. Nu hebbe van anderen hooren klagen,
+dat uijt dezen druk en verzameling der Gedichten, eenige beken-
+de, en die niet van de geringste, uijtgelaten zijn. doch D. Hart-
+zoeker heeft mij bericht, dat de zelve in eenige bladen bijzonder
+zijn gedrukt, en’er voor bekende Vrinden, of die ze begeeren, bij-
+gedaan worden. ik hebbe dan gewacht met een exemplaar voor
+mij te doen binden tot dat ik de zelve zoude mogen machtig zijn.
+verzoeke derhalven, dat de goedheijd belieft te hebben mij eenige
+van de zelve bladen, voor drie of vier exemplaren ten dienste
+van wederom andere vrienden, die mij des verzocht hebben, toe
+te laten komen; zal dezelve ten gezetten prijze dankelijk vol-
+doen.
+Aan</p>
+<p>seerlijcke geleerde en geseetene Broeder, d'
+Langgediender, uw Vaader mede, my uwe gedrukte
+naeklant, gest groetende a handtneemende, ick
+Sicijck in ghet Leven, by diten, dat uwe Boeckloevende,
+My voorlangh naer uwe geuRijmde waerheden, uyt
+dat get oudtfrijse Tem Obrius te herleiden (verfseering
+By u haest mogelijck waer sij, sonder mijn mis,
+langh oblieffert te sijn. Want de druckende moste
+om werk, in de gewelt, waden by Beoordeeling
+gestelt, naer de geesten van Tempus tot-bijten
+ghevoordereet. (verstaet sulck al met s. des goosen
+onder goude Buijsen tot Verijmde parckel; so uytstel
+ghe u dien, Soeckers in geen gemoet te begheren, ick
+wat te quikhen, om dat seijgande dat ick u de
+luijse eghen seel Afsch te bequamen, want ick g'
+eijser sijn sal na mijn munt, en, bestendigh
+woordtwerck te volghen, en, een jongen Bruijder tot
+eijsen Proueiren, dat my sal in heerenst u Lament
+sijnde. Ondertusschen, wack uw waekenthum, g'
+verant van my, gheset het u eijder.</p>
+<p>t'Amsterdam in 1670.
+den 13 Junij in Midtsomert.</p>
+<p>uw dienstwilligen vriendt en dienaer
+J. v. Vondel.
+Bijlage tot de Vondelbrieven.</p>
+<h2>ANTONIDES AAN BRAND.</h2>
+<h3>23 Maert 1681’).</h3>
+<p>Eerwaerdige Heer.</p>
+<p>Op Uw E. aengenamen dient dezen tot antwoort, voor eerst:</p>
+<p>„Dat den Hr Vondel zelden Antonides anders plagh te noemen
+als met de naem van zoon, en dat hy den zelve een teedere en
+genoughsaem vaderlyke zught toedrough met meer gemeenschap
+en ommegangh als men van zulk een out eerwaerdigh man, on-
+trent een jongelingh van zoo weinigh jaeren, scheen te mogen
+hopen. D’aenleidinge tot die gemeenschap, die Vondel met An-
+tonides onderhielt, heeft gegeven het Treurspel van Zungchin,
+dat Vondel in die tyt berymde, en alzoo hy van jemant gehoort
+hadde dat Antonides mede een onder handen hadde van dierge-
+lyke stoffe quam hy denzelven bezoeken, verzoght dat te lezen,
+en alzoo hy in ’t begin van zyn treurspel den Keijzer dede zeggen:
+Wie plantte in Tartarye een bosch van krygsstanddaerden, zeide
+Vondel, om den jongen dichter aen te moedigen, zal ik deze eige
+metaphora in myn Treurspel ontleenen, gelijk hij ook gedaen
+heeft en het dikmaels met vermaek verhaelt.”</p>
+<p>De Drost Hooft was by hem in uitsteekende groote achtingh,
+zoo wel wegens de Poézij als zyn Historién; maer vooral wegens
+de laetste, van welke hy pleegh te zeggen, dat hy niemant in
+Nederlandt bequaem kende om maer een bladt te schryven, gelyk
+de Drost dat gansche werk heeft uitgevoert.”</p>
+<p>„Zijne gemeenzaemheit met den Drost voorsz. wiert eenige
+jaeren voor deszelfs doot door dit voorval merkelyk gescheiden:
+De Drost hadde voor ’t Hof van Brussel een pleidoy hangen en
+de Heeren Plempen, die aldaer aen veel aenzienelyke vrienden
+vermaegschapt waeren, tot zyne hulpe en voorspraeke, zoo door
+Vondel als andere dikmaels aengezoght, en alzoo eenige priesters
+en pausgezinde in Goylandt en daer ontrent wonende wel geerne
+wat meer vryheit van den Heer Hoofd zouden hebben begeert,
+verzochten die nevens de voorn. Plempen dat Vondel dit den
+Drossaert wilde voordraegen, die dat ook dede, en onder andere
+daer by voegde: dat het andersins hem tot Brussel schadelyk
+zoude mogen wezen, waer over den Drost zeer t’onvreden zynde
+hem antwoorde dat hy zich daer niet mee te moejen hadde en dat
+zulks een dreigement was, zynde sedert de vriendschap genoeg-
+saem gesleten.”</p>
+<p>„Over den Heer van Zuilichem pleegh hy zigh te verwonderen,
+dat hy, in zoo grooten drangh van bezigheden, evenwel in zoo
+veele taelen en verscheide stoffen zich hadde kunnen oeffenen,
+en zoo weinigh weten te laeten verloren gaen.”</p>
+<p>„De Hartspiegel van Hr. Laurentsz Spiegel hielt hy in zod
+grooten waerde dat hy weinigh jaeren voor zyn doot niet alleen
+Antonides aenmoedighde, om die te willen nocturnâ versare
+manu versare diurnâ maer hij die zelfs overluit voor zyn dochter
+en nogh in zyn cenigheit tot tweemael toe geheel uit.”</p>
+<p>„Anslo, Brant en Dekker pleegh hy dichters van een sierlijke
+nettigheid te noemen.”</p>
+<p>Wat hy voor Westerbaen gevoelde heeft hy zelfs genoug ge-
+schreven.</p>
+<p>Hy klaegde dikmaels over de groote nydicheit van Jan Vos,
+die dat pas hooft van de Schouburgh was, en de rollen van zyne
+treurspeelen al willens qualijk verdeelde aen onbequame perso-
+nadien, en die noch meer mismaekte met de zelve in ongerymde
+en oude versleten klederen ten toonnecle te voeren.”</p>
+<p>Nae ’t overlijden van zyn huisvrouw die neven hem Menno-
+nist was, en hy diaken in de Waterlandsche Kerk tot Amsterdam,
+hielt zyn dochter zijn huis op, die te Keulen by Vondels vader in
+de Roomsche kerkzeden was opgevoet en daer door grooten toe-
+gangh ten zynen huize Pater Marius en cenige van de Fransche
+Jesuiten, welke geestelyken wel ’t meest gearbeit hadden om
+hem Roomsch te maeken.</p>
+<p>„Van den Aertsbisschop van Mechelen kreegh hy een slegte
+kopy van een altaerstuk ’t welk van Vondel eerst ontfangen als
+een treffelyk geschenk naderhant door hem aen zijn zuster tot
+Hoorn wiert gezonden, niet willende die hatelyke gedachtenis
+langer onder zyn oogen hebben, zoodrae hy de slechte waerde
+daervan hadde leeren kennen.</p>
+<p>Voor d’opdragt van Virgilius wiert hem een aem rijnsche wijn,
+en, voor die van Ovidius een schoone vergulde kop thuis gezon-
+den. Voor ’t geboortedicht van Prins Willem kreegh hij net zoo
+veel al hem de boete van Palamedes gekost hadde” ¢).</p>
+<p>Ik</p>9:T2f00,<p>As before.
+March 11, 1683.
+[Regarding the use of two letters by Brandt. Further:] But why not write "reis op reis vaader" instead of "vader" here as well? Or do you dislike it only because Vondel specifically mentioned it in his warning against Dutch misspelling and the disgusting doubling of vowels?</p>
+<hr>
+<h2>OUDAAN TO G. BRANDT</h2>
+<h3>December 11, 1682</h3>
+<p>[He intends] to include some remarks on the description of the life of J. v. Vondel: which, having only noticed in passing while reading, required a second, more attentive reading; and for which I have not been able to set my mind for a considerable time. From these premises, you can see that I have received the Life itself; but since I found it at my house without any note and by accident during my absence, without speaking to the bearer, I did not know whether I owed it to the writer or the printer; and therefore, until now, I have failed in my duty, which I now gladly wish to make up for with grateful acknowledgment and apologize for.</p>
+<p>Vondel's birth year is stated as 1587, according to what he himself indicates in the dedication of Maria Stuart's tragedy; but it has always seemed to me that there is some confusion here because, when the death year of M. Stuart is taken as 1587 according to the English style, it is 1588 for us; since the year and its counting in England change with Good Friday or Easter and switch to the other counting; so that Vondel, being born in November, was necessarily born in 1588 according to the English counting.</p>
+<p>Whether the Tragedy about the murder of Henry the Great should be attributed to the same year of 1610, or perhaps to a slightly later time in memory, is doubtful to me because I do not find any work or verse from that time that can match the invention, the richness of thoughts, and the power and wording of the same, except for some distant pieces; and one would have to conclude from this that Vondel, in a few years, not only did not progress but also somewhat regressed.</p>
+<p>I have the Golden Shop printed by D. P. Pers in the year 1613 in quarto, which I believe to be the first edition.</p>
+<p>In the indisposition (whether indicated on page 16 or perhaps page 25), it was prescribed for his health recovery that he should refrain from too much activity or mental exertion, especially regarding poetry, to which he replied, "better let me die." I have this from the mouth and by the account of Daniel de Breen. Page 18. The advice of someone one would never suspect. It is a pity that this person is not mentioned unless it is Mr. Albert Koenraads Burg himself, for what follows; as well as for what is more broadly mentioned on page 22. D.d.B. undoubtedly means Daniel de Breen to me; since I have heard the same from Willem van de Vondel, as his great and very common friend.</p>
+<p>The reasons for the long delay and eventual destruction of Konstantijn could have been various; among others, I have from the same D. de Breen that he believed Vondel eventually began to see that Konstantijn was not the man he initially imagined and presented, and that it mainly began to falter for him, Vondel, when he came to the piece about the son Crispus and the stepmother Fausta; both brought to death by Konstantijn, the first out of blind rage and jealousy, and the other out of hot revenge; where he could not successfully make his hero remain unblemished or as great and holy as he initially elevated him. But whatever the case, we must leave this, like many uncertainties, to the inner workings of time.</p>
+<p>In the dedication of the Tragedy of the Brothers, one finds these words: "A certain theologian thinks etc."; this theologian is the now often mentioned D. de Breen, according to testimony from his own mouth.</p>
+<p>In the Tragedy of Maria Stuart, nothing seems to have struck or pricked him more bitterly than this line, between the Second and Third Act, where jealousy, or actually Queen Elizabeth, is described: "In the foam of the Caledonian waves, etc." Page 61 in the listing of Vondel's children and descendants, his sons, two grandsons, and a daughter (who lived with their grandfather at the time and died in the bloom of their youth) are mentioned, as stated there. But where then is the son mentioned on page 72? Unless perhaps born from his son's second marriage, which, in my opinion, is not mentioned anywhere and could have been indicated more explicitly; or if there are other descendants of such a famous man available, or if the line ends here. Page 63. This one (not worthy of mentioning his name here). I take it to be Jan Vos (if I am wrong, correct me), who, being like a dumb ox, could hardly do anything but bellow and moo, thought he had surpassed everything; but how far his monstrosities lay below the well-formed counterparts of our great poet, I believe I have pointed out in the case of the similarly released tragedies (I would say, but, tragedy, and madman's raving, I say better) of Noack and Medea, in a letter to our glorious predecessor himself, who also showed no displeasure with his response, and if I am not mistaken, rejoiced that he found himself avenged in the judgment of others over the injustice suffered by this man.</p>
+<p>Of the lyrical poems, I would have liked to see some more carefully selected in his life story; because they seem to me, for their subject matter or impression... the thoughts, more worthy of note than others, such as the Poem on the Rhine, his Birthstream, for the unconsidered magnificence brought about in it; the Poem along with his Portrait, sent to the Director General Hulsft to the East Indies, where, through a dream, the death of the General is depicted, very much in the same way as it was later understood to have happened: this Verse being at the house of the Blood-friends more than half a year before they had any news of it here; The Triumph of Copenhagen, or the Northern Nimrod, etc., of which it is said that it gave the King of Sweden such heartache that he testified that it was these and similar writings that branded his name with an indelible mark of disgrace and kept it in eternal contempt; and especially among the Verses of his later years, the Peace Verse, with the name of State Pillar; which I certainly believe provided the material for the complaint in the latest Declaration of War by the King of England; in which also mention is made of upright Pillars; which Majesty, it is suspected, was influenced by his advisors on some loose rumor. And what at some time Our Patron brought to me, did not tickle him with common excitement.</p>
+<p>And these are my thoughts that came to mind while reading; which I express here freely, as one does among familiar friends. Now I have heard others complain that from this printing and collection of Poems, some well-known ones, and not the least, have been omitted. But D. Hartzoeker informed me that the same are printed in some separate sheets and are added for known friends or those who desire them. I have therefore waited to have a copy bound for myself until I could obtain the same. I request, therefore, that you kindly send me some of these sheets for three or four copies for other friends who have requested them from me; I will gratefully pay the set price.</p>
+<p>To</p>
+<p>the esteemed and learned Brother, the
+Long-serving, your Father also, my printed
+follower, greeting you by hand, I
+Sicijck in the Life, by this, that your Book-loving,
+I have long sought your rhymed truths, from
+the old Frisian Tem Obrius to derive (decoration
+By you as soon as possible, without my
+long delay. For the printer must
+work, in the force, judged
+by the spirits of Tempus to the end
+advanced. (understand such with s. of the goose
+under golden Pipes to Rhymed parcel; if delay
+you serve, Seekers in no mind to desire, I
+what to quicken, because saying that I the
+lousy own soul To be able to acquire, because I
+will be his iron after my coin, and, constant
+word work to follow, and, a young Brother to
+test, that will be in the Lord's lament
+being. Meanwhile, watch your watchfulness,
+answer from me, set it to you each.</p>
+<p>Amsterdam in 1670.
+June 13 in Midsummer.</p>
+<p>your willing friend and servant
+J. v. Vondel.
+Appendix to the Vondel letters.</p>
+<h2>ANTONIDES TO BRAND</h2>
+<h3>March 23, 1681</h3>
+<p>Honorable Sir,</p>
+<p>In response to your esteemed service, first:</p>
+<p>"That Mr. Vondel rarely called Antonides anything other than son, and that he showed him a tender and sufficiently fatherly care with more interaction and companionship than one might expect from such an old honorable man towards a young man of so few years. The reason for the companionship that Vondel maintained with Antonides was the Tragedy of Zungchin, which Vondel was rhyming at that time, and since he had heard from someone that Antonides also had one of similar material in hand, he visited him, requested to read it, and since he made the Emperor say at the beginning of his tragedy: 'Who planted a forest of war standards in Tartary,' Vondel said, to encourage the young poet, 'I will borrow this very metaphor for my Tragedy,' which he also did and often recounted with pleasure."</p>
+<p>The Drost Hooft was held in high esteem by him, both for his Poetry and his Histories; but especially for the latter, of which he used to say that he knew no one in the Netherlands capable of writing even a page like the Drost had executed that entire work."</p>
+<p>"His familiarity with the aforementioned Drost was notably separated a few years before his death by this incident: The Drost had a plea pending before the Court of Brussels, and the Plempen gentlemen, who were related to many influential friends there, were often sought for help and advocacy by Vondel and others, and since some priests and papists living in Goyland and nearby would have liked a bit more freedom from Mr. Hooft, they requested, along with the aforementioned Plempen, that Vondel present this to the Drost, which he did, adding among other things: that otherwise it might be harmful to him in Brussels, to which the Drost, very displeased, replied that he should not meddle with it and that it was a threat, since then the friendship has sufficiently worn out."</p>
+<p>"Regarding Mr. van Zuilichem, he used to marvel that he, in such a great pressure of business, could still practice in so many languages and various subjects, and let so little be lost."</p>
+<p>"He held the Hartspiegel of Mr. Laurentsz Spiegel in such high regard that a few years before his death, he not only encouraged Antonides to want to handle it nocturnâ versare manu versare diurnâ but also recited it aloud for his daughter and even in his solitude twice entirely."</p>
+<p>"Anslo, Brant, and Dekker he used to call poets of elegant neatness."</p>
+<p>What he felt for Westerbaen he has written enough himself.</p>
+<p>He often complained about the great envy of Jan Vos, who was then head of the Theater, and deliberately distributed the roles of his tragedies poorly to unsuitable persons, and further disfigured them by presenting them in absurd and old worn-out costumes."</p>
+<p>After the death of his wife, who was Mennonite like him, and he a deacon in the Waterland Church in Amsterdam, his daughter kept his house, who was raised in the Roman church customs by Vondel's father in Cologne, and thereby had great access to his house for Father Marius and some of the French Jesuits, who worked the most to convert him to Catholicism.</p>
+<p>"From the Archbishop of Mechelen, he received a poor copy of an altarpiece, which Vondel first received as a remarkable gift and later sent to his sister in Hoorn, not wanting to keep that hateful memory under his eyes any longer, as soon as he learned its poor value."</p>
+<p>For the dedication of Virgil, he received a barrel of Rhine wine, and for that of Ovid, a beautiful gilded cup was sent to his home. For the birth poem of Prince William, he received just as much as the fine for Palamedes had cost him."</p>
+<p>I</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/83","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[null,["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/155","className":"underline","children":155}],[" ","to"," ",["$","$L7",null,{"href":"/page/172","className":"underline","children":172}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"J. v. Vondel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"G. Brandt"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Discussion on Vondel's works and related literary matters"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1670"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Amsterdam"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=52.3676,4.9041","target":"_blank","rel":"noopener noreferrer","children":"52.3676, 4.9041"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"J. v. Vondel writes to G. Brandt discussing various aspects of Vondel's works, including the birth year of Vondel, the publication of his works, and his relationships with other literary figures. Vondel also addresses some misunderstandings and clarifies details about his literary contributions and the reception of his works."]}]]}]]}]]}]]}]

@@ -1,0 +1,51 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","35","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","35","d"],{"children":["__PAGE__?{\"id\":\"35\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","35","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T695,<h2>VOSSIUS AAN DE GROOT</h2>
+<h3>1638, 6 Januari</h3>
+<p>„Aan Joost van den Vondel, toen ik hem van Constantijn en Helena terug riep tot de liefde.”
+Mijn Vondel, gij wiens lier den weergalm van mijn snaren
+Zoo vaak herklinken deed in Nederduitsche maat!
+Mijn Vondel, eer en roem van Hollands dichterscharen,
+Wiens onnavolgbaar lied onze ooren nooit verzaadt!
+Wat pijnigt gij u af, de gruwlen af te beelden,
+Die dwingeland Maxens in langverloopen tijd
+Of wrevele Licyn aan ’t zuchtend Rome teelden,
+De toortsen, ’s Heeren graf door Helena gewijd!
+Wat volgt gij over de aard’ den trotschen zegewagen
+Van ’s waerelds opperheer, roemruchten Konstantijn!
+De ware God regeert, de Heidnen zijn verslagen:
+Dit zongt ge: ’t zij genoeg: 't moge uw voldoening zijn.
+Werp weg de krijgsbazuin: uw citer klink van vrede.
+Leef voor u zelven, zoek een lieve gezellin:
+Verlaat de legerplaats voor zocter legerstede,
+En fluister Liefde zelve u zachte deuntijes in.
+Wees zelf uw Konstantijn: zoo ge uw Heleen moest derven,
+O! in een nieuwe gaé herleef weer uw Heleen.</p>
+<p>Amstelium Vondelii, quam illustro tuo nomini inscripsit, jam ut puto videris. Diu quominus ageretur, obstitere aliqui Presbyterii, ut arbitror, nomine. Tandem id Consuli Gravio commissum ut perlegere cum cura vellet. Dixit se nihil invenire, quod jure offenderet. Nam quod dicerent zazile totum drama, uti et Authorem, id sibi parvi ponderis videri; eo quod personae debuerunt introduci, non ad tempora reformationis, sed temporibus suis accommodatae. Nudius tertius primo actum id drama, idque majore tanto applausu, quanto diutius elusa fuerat populi expectatio.</p>
+<p>In festo Epiphaniae, 6 Januari, 1638.</p>9:T6eb,<h2>VOSSIUS TO DE GROOT</h2>
+<h3>January 6, 1638</h3>
+<p>"To Joost van den Vondel, when I called him back from Constantine and Helena to love."</p>
+<p>My Vondel, you whose lyre often echoed the sound of my strings in Dutch verse!
+My Vondel, honor and glory of Dutch poets,
+Whose unmatched song never tires our ears!
+Why do you torment yourself depicting the horrors
+That the tyrant Maxentius inflicted in ancient times
+Or the wrath of Licinius that tormented suffering Rome,
+The torches, the Lord's grave consecrated by Helena!
+Why do you follow the proud chariot of victory
+Of the world's supreme ruler, the famous Constantine, across the earth!
+The true God reigns, the pagans are defeated:
+You sang this: it is enough: let it be your satisfaction.
+Throw away the war trumpet: let your lyre sound of peace.
+Live for yourself, seek a dear companion:
+Leave the battlefield for a softer resting place,
+And let Love itself whisper soft tunes to you.
+Be your own Constantine: if you had to lose your Helena,
+Oh! in a new one, let your Helena live again.</p>
+<p>Amstelium Vondelii, which I inscribed with your name, I think you have seen by now. For a long time, some members of the clergy, as I believe, prevented it from being performed. Finally, it was entrusted to Consul Gravius to read it carefully. He said he found nothing that could justly offend. For what they said about the whole drama, as well as the author, seemed of little importance to him; because the characters had to be introduced, not according to the times of the Reformation, but adapted to their own times. Three days ago, the drama was performed for the first time, and with greater applause, the longer the public's expectation had been eluded.</p>
+<p>On the Feast of Epiphany, January 6, 1638.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/34","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/36","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/90","className":"underline","children":90}],[" ","to"," ",["$","$L7",null,{"href":"/page/91","className":"underline","children":91}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Vossius"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Hugo de Groot"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Encouragement and advice to Joost van den Vondel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1638"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Amstelium"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=52.3676,4.9041","target":"_blank","rel":"noopener noreferrer","children":"52.3676, 4.9041"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Vossius writes to Hugo de Groot, encouraging Joost van den Vondel to focus on themes of love and peace rather than historical and religious conflicts. He praises Vondel's poetic talents and advises him to seek personal happiness and companionship."]}]]}]]}]]}]]}]

@@ -1,0 +1,61 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","41","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","41","d"],{"children":["__PAGE__?{\"id\":\"41\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","41","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T670,<h2>DE GROOT AAN VONDEL ”).</h2>
+<h3>1639, 22 October.</h3>
+<p>Myn Heer,</p>
+<p>Ik dank U E. voor uwe schenkagie, twee werken waardig sulk
+een werkmeester. Sophokles Electra is altyd gehouden geweest
+voor uitnemende onder des treffelyken mans Treurspeelen. Ik
+heb by wylen wel gedacht van deselve in ’t Latyn te stellen, ge-
+lyk ik tot Hamburg zynde gedaan heb Euripides Taurische Iphi-
+genia, dewelke ik nu onlangs gezonden heb aan myn broeder de
+Groot. In S. Ursula heeft U E. boven zyn gelukkig verstandt ook
+getoont een zeer loffelyke genegentheit tot zyne geboortplaatse,
+dewelke ik geluk wensche met sulk een spruit, en wensche U E.
+lang leven, gezontheit en gerustheit van gemoedt, om niet alleen
+zoodanige als deze zyn, die zeer treffelyk zyn, maar ook grooter
+stukken ten dienste, nut, en lust van alle Nederlanders voort te
+brengen.</p>
+<p>Tot Parys den 22 October 1639. UE. gantsch dienstwill(ig)e
+H. de Groot.</p>
+<p>Nadat ik dit geschreven hadt heb ik de twee stukken ten einde
+toe geleezen, en vinde in Electra de zin en de hooghdraventheit
+van Sophokles wel uitgedrukt. In Sinte Ursul verwonder ik my
+over de kloeke vinding, schikking en beweeghlykheit.</p>
+<h2>HUYGENS AAN ZIJN VRIENDEN</h2>
+<h3>1640, 8 Febr.</h3>
+<p>Ad amicos Amstelodamenses mox adeundos.</p>
+<p>Barlaee, Vossi, Vondeli, omniumque Hoofdi
+Caput et chorage, et omnium Vicoforti
+Hospes diserte, si vacatis indocto
+Quantum sodali nondum vacuistis...
+Vondelii super saeclum
+Augusta Magnum tela Caesarem saeclo
+Datura pausam si capit nec optandam,
+Nec poenitendam...
+Inaestimabilis quincunx
+Selectiorum Belgica virum, magnae
+Amstelredami nobilissimi Cives. Etc.</p>9:T63a,<h2>DE GROOT TO VONDEL</h2>
+<h3>October 22, 1639</h3>
+<p>Dear Sir,</p>
+<p>Thank you for your gift, two works worthy of such a master. Sophocles' Electra has always been considered one of the finest among that great man's tragedies. I have sometimes thought of translating it into Latin, as I did with Euripides' Taurian Iphigenia while in Hamburg, which I recently sent to my brother de Groot.</p>
+<p>In St. Ursula, you have shown not only your brilliant mind but also a commendable affection for your birthplace, which I congratulate for having such a distinguished son. I wish you a long life, health, and peace of mind, so that you may continue to produce works as excellent as these, and even greater ones, for the benefit, use, and enjoyment of all Dutch people.</p>
+<p>In Paris, October 22, 1639. Your very devoted H. de Groot.</p>
+<p>After writing this, I read both pieces to the end and found that Electra captures the spirit and grandeur of Sophocles well. In St. Ursula, I am amazed by the bold ideas, arrangement, and emotional impact.</p>
+<h2>HUYGENS TO HIS FRIENDS</h2>
+<h3>February 8, 1640</h3>
+<p>To my friends in Amsterdam, whom I will soon visit.</p>
+<p>Barlaeus, Vossius, Vondel, and the head of all, Hooft,
+The leader and host of all, Vico Forti,
+Eloquent host, if you have time for an unlearned friend
+As you have not yet had time...</p>
+<p>Vondel's work surpasses the age,
+Giving the great Caesar's era a pause,
+Neither to be wished for nor regretted...</p>
+<p>An invaluable quintet
+Of the finest men in the Netherlands, the most noble citizens of great Amsterdam. Etc.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/40","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/42","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/100","className":"underline","children":100}],[" ","to"," ",["$","$L7",null,{"href":"/page/101","className":"underline","children":101}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Hugo de Groot"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Joost van den Vondel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Gratitude for the gift of two works and commentary on their quality"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1639"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Paris"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=48.8566,2.3522","target":"_blank","rel":"noopener noreferrer","children":"48.8566, 2.3522"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Hugo de Groot thanks Joost van den Vondel for the gift of two works, praising their quality. He mentions his own translation work and expresses admiration for Vondel's intellect and contributions to Dutch literature. De Groot wishes Vondel a long life and continued success in his literary endeavors."]}]]}]]}]]}]]}]

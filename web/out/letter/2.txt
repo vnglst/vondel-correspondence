@@ -1,0 +1,246 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","2","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","2","d"],{"children":["__PAGE__?{\"id\":\"2\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","2","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T1693,<h2>VONDEL AAN VAERLAER</h2>
+<h3>1612.</h3>
+<p>Epistre a Mon-seigneur Iean Michiels van Vaerlaer, mon singulier Amy.</p>
+<p>L’encensoir odoreux de l’Arabie heureuse,
+L’Attique miel sucré, la mine precieuse
+De la riche Peru, les perles, les thresors
+Que l’Inde orientale a sur ses riches bords,
+Ne pouvant presenter a vostre Seigneurie,
+Te vien l’Avant-coureur de mienne Poésie
+Sacrer à ton honneur, en toute humilité,
+La printaniere fleur de mon aage doré.
+Ma Muse rit desia, se voyant amiable
+Dessoubs l’ombre d’vn tel Mecaene favorable,
+Qui fuyant le pavé des ruës, va les champs
+Presser de ses talons: qui l’aage de son temps
+Loing, loing hors l’emmuré d’vne Cité redouble,
+Laissant des Citadins la peupuleuse trouble:</p>
+<p>Qui pour les bords du Leck et son bord verdissant
+Quitta le bleu Triton de l’Amstel ondoyant,</p>
+<p>Et estant petit Roy de Iaersveldt, ne desire
+Changer son libre estat pour vn plus grand Empire.</p>
+<p>O trois fois bienheureux (a autre fois chanté
+Horace et le Gascon Du Bartas renommé)</p>
+<p>O mille fois heureux! qui voit tousiours Nature
+Fleurir parmy les champs en eternel verdure!
+Le maniement joyeux d’vn verd scion enté</p>
+<p>Le lustre passe d’vn royal sceptre emperlé,</p>
+<p>Les feuilles ombrageux d’vn florissant boscage,
+Les doux tirelirants Rossignols en ramage,
+Surpassent l’orgueilleux couronnement royal,
+Et le chant mesuré des Chantres musical.</p>
+<p>Si tost que le Soleil va peindre de dix milles
+Couleurs le gay Printemps, par les pleines fertiles,
+Le champestre Bourgeois voyt ores sur les fleurs
+Aurore distiller les agreables pleurs,</p>
+<p>Il voit les fleurs ployer soubs vn mignard Zephire,
+Il oyt le doux Echo qui par le ciel souspire,</p>
+<p>Il voyt les aime-fleurs d’Hymette bancquetter,</p>
+<p>Le sueux Laboureur la terre cultiver,</p>
+<p>Et richement semer la nouvelle semence,</p>
+<p>Pour moissonner apres les fruicts en abondance.</p>
+<p>Le chaleureux Esté (qui brusle tout vermeil)
+Luy monstre les espics, la vertu du Soleil
+Luy monstre le coral des cramoisins cerises,</p>
+<p>Et l’Automne a couvert de mille friandises</p>
+<p>Son table, riche en fruict, en bled, en grain, en vin,
+Verssant le bon Bacchus dedans vn crystalin.</p>
+<p>Or estant de tous biens richement couronnée</p>
+<p>Il sent desia en l’air les aisles de Borée.</p>
+<p>He Dieu! qu’est-ce vn plaisir ainsi en liberté
+Parmy les champs feconds, en toute seureté,</p>
+<p>De talonner les pas de nostres premiers Peres,
+Loing, loing laissant à dos les passions severes,
+Fuyant le bruict mondain! ô, doux et sainst repos!
+Qui de cupiditez n’as point chargé le dos,</p>
+<p>Qui ne crains le malheur d’vne gauche fortune,
+Ni l’azur ondoyant du barbare Neptune,</p>
+<p>Qui portes dans ton coeur ta richesse et thresor,
+Et ton bien souverain: qui pour argent ni or</p>
+<p>Ne passeras la mer, ne tendras tant de toiles,
+Qui d’vn Balaine fier ne crains d’estre englouti,
+Mais qui dans ton berceau veux estre enseveli.</p>
+<p>Durant l’aage doré que nos premiers Ancestres
+Faisoint profession des ouvrages champestres,
+Astrée florissoit, et la terre à chascun
+Estoit avec ses fruicts en partage commun,</p>
+<p>Les fifres ni tambours n’esveillerent l’orage</p>
+<p>D’vn sanglant eschaffaut, ne Mars aime-carnage
+N’exhortoit ses Souldats, on ne trouva Citez,
+Chasteaux, ni tours pierreux, ni Remparts terrassez,
+Neptune n’eust le dos ni ses ondes salées</p>
+<p>Chargées de cent vaisseaux, car du fruict des vallées
+Chascun se contentoit, et vivoit à Cerés,</p>
+<p>Laquelle abondamment leur provida assez.</p>
+<p>O celeste labeur! qui dans ton front empraincte
+Portez la saincte loy, la justice, et la craincte
+Du grand Dieu Zebaoth, comme Abel vertueux,
+Noé, Moyse, Abram, et celuy qui les Cieux
+Semble oreillier au son de sa harpe dorée,</p>
+<p>Et triomphant se voyt vainceur d’vn Briarée.</p>
+<p>Combien d’années les Romains sont sagement
+Gouvernez soubs ceux ci, qui du coutre trenchant
+La terre ont cultivé, je laisse vn Tite Live
+Historier dessus le Tyberique rive.</p>
+<p>Je ne veux, ni ne puis mettre en jeu tous les Roys,
+Porte-sceptres dorez, Demy-dieux, Donne-loyx,
+Qui ont abandonnez leur Couronne invincible,
+Pour vivre bien contents parmy le champ paisible;
+Loing, loing des vanitez et troubles de l’esprit,
+Pour laquelle ses pleurs Heraclite espandit.</p>
+<p>La plus part qui cerchoynt les immortelles vivres,
+Et qui diligemment ont feuilletté les livres
+Du trois-fois sainct Esprit, sont aussi retiré,
+Laissant arriere loing l’humaine vanité.</p>
+<p>Car le vray Helicon, et Pernasse des Muses
+Se plaist d’entre le son des douces cornemuses
+Du haubois pastoral, soubs l’arbres ombrageux
+Lesquels tous-jours croissant vont menagant les Cieux.
+Toy qui d’vn mesme feu et d’vne mesme flame
+Bruslez divinement, c’est vers toy que je rame
+Avec mon foible esquif, puis qu’vn vif jugement
+Accompaigne tous-jours ton hault entendement,
+Souffrez que soubs ton nom je vien le vieil Theatre
+Icy renouveller, et Pharon l’Idolatre
+Presenter obstiné, qui ses derniers sanglots
+Et derniers pleurs noya dedans les rouges flots:
+Souffrez que je despein icy la delivrance
+Des enfans d’Israél, d’Abram juste semence,
+Afin que par Zoyle au visage effronté
+Les fleurs de mon printemps ne soyent violé.
+C’est la cause pourquoy, Mecene tres-fidelle!
+Que ma Muse dessoubs l’ombrage de ton aisle
+Se cache volontiers. Ma Muse qui s’en va,
+Sur le sacre sommet de l’Arabe Sina,
+Le front pousser au Ciel jusqu’aux bigarres nués,
+Soubs l’Echo de ton nom jusqu’aux astres cornués:
+Recevez doncq ces vers, ces vers qu’a ton honneur
+Vrayment meritent bien vn plus docte Sonneur.</p>
+<p>De vostre Seigneurie le tres-affectionné
+I. V. V.</p>9:T159f,<h2>VONDEL TO VAERLAER</h2>
+<h3>1612.</h3>
+<p>Epistle to My Lord Jean Michiels van Vaerlaer, my dear friend.</p>
+<p>The fragrant incense of happy Arabia,
+The sweet Attic honey, the precious mines
+Of rich Peru, the pearls, the treasures
+That the East Indies have on their rich shores,
+Unable to present to your Lordship,
+I come as the forerunner of my Poetry
+To dedicate to your honor, in all humility,
+The springtime flower of my golden age.</p>
+<p>My Muse already smiles, seeing herself amiable
+Under the shadow of such a favorable patron,
+Who, avoiding the pavement of the streets, goes to the fields
+Pressing them with his heels: who, in his time,
+Far, far from the walls of a crowded city,
+Leaves behind the bustling trouble of city dwellers:</p>
+<p>Who for the banks of the Leck and its green shores
+Left the blue Triton of the flowing Amstel,</p>
+<p>And being the little King of Jaarsveld, does not desire
+To change his free state for a greater Empire.</p>
+<p>O thrice blessed (once sung
+By Horace and the renowned Gascon Du Bartas)</p>
+<p>O a thousand times happy! who always sees Nature
+Blooming among the fields in eternal greenery!
+The joyful handling of a green grafted shoot</p>
+<p>Surpasses the luster of a royal scepter adorned with pearls,</p>
+<p>The shady leaves of a flourishing grove,
+The sweet trilling nightingales in the branches,
+Surpass the proud royal coronation,
+And the measured song of musical singers.</p>
+<p>As soon as the Sun paints with ten thousand
+Colors the gay Spring, through the fertile plains,
+The rural citizen now sees on the flowers
+Aurora distilling her pleasant tears,</p>
+<p>He sees the flowers bending under a gentle Zephyr,
+He hears the sweet Echo sighing through the sky,</p>
+<p>He sees the beloved flowers of Hymettus feasting,</p>
+<p>The sweaty laborer cultivating the earth,</p>
+<p>And richly sowing the new seeds,</p>
+<p>To later harvest the fruits in abundance.</p>
+<p>The warm Summer (which burns all red)
+Shows him the ears of grain, the virtue of the Sun
+Shows him the coral of crimson cherries,</p>
+<p>And Autumn has covered with a thousand delicacies</p>
+<p>His table, rich in fruit, wheat, grain, and wine,
+Pouring the good Bacchus into a crystal.</p>
+<p>Now being richly crowned with all goods</p>
+<p>He already feels in the air the wings of Boreas.</p>
+<p>Oh God! what a pleasure it is to be free
+Among the fertile fields, in all security,</p>
+<p>To follow the steps of our first Fathers,
+Far, far leaving behind severe passions,
+Fleeing the worldly noise! Oh, sweet and holy rest!
+Who has not burdened your back with greed,</p>
+<p>Who does not fear the misfortune of a fickle fortune,
+Nor the blue waves of the barbaric Neptune,</p>
+<p>Who carries in your heart your wealth and treasure,
+And your supreme good: who for neither silver nor gold</p>
+<p>Will cross the sea, nor spread so many sails,
+Who does not fear being swallowed by a fierce whale,
+But who wants to be buried in your cradle.</p>
+<p>During the golden age when our first Ancestors
+Practiced rural works,
+Astraea flourished, and the earth with its fruits
+Was shared by all,</p>
+<p>The fifes nor drums did not awaken the storm</p>
+<p>Of a bloody scaffold, nor did Mars, lover of carnage,
+Exhort his Soldiers, there were no Cities,
+Castles, nor stone towers, nor fortified walls,
+Neptune did not have his back nor his salty waves</p>
+<p>Loaded with a hundred ships, for the fruit of the valleys
+Everyone was content, and lived by Ceres,</p>
+<p>Who abundantly provided enough for them.</p>
+<p>Oh heavenly labor! who on your forehead imprints
+The holy law, justice, and the fear
+Of the great God Zebaoth, like virtuous Abel,
+Noah, Moses, Abraham, and he who seems to lull the Heavens
+With the sound of his golden harp,</p>
+<p>And triumphantly sees himself as the conqueror of a Briareus.</p>
+<p>How many years the Romans were wisely
+Governed under those who with the sharp plow
+Cultivated the earth, I leave a Titus Livius
+To recount on the Tiber's bank.</p>
+<p>I do not want, nor can I bring into play all the Kings,
+Bearer of golden scepters, Demigods, Lawgivers,
+Who have abandoned their invincible Crown,
+To live contentedly among the peaceful fields;
+Far, far from vanities and troubles of the mind,
+For which Heraclitus shed his tears.</p>
+<p>Most who sought the immortal life,
+And who diligently leafed through the books
+Of the thrice-holy Spirit, have also withdrawn,
+Leaving far behind human vanity.</p>
+<p>For the true Helicon, and Parnassus of the Muses
+Delight in the sound of sweet bagpipes
+Of the pastoral oboe, under the shady trees
+Which always grow towards the Heavens.
+You who burn divinely with the same fire and flame,
+It is towards you that I steer
+With my weak skiff, since a lively judgment
+Always accompanies your high understanding,
+Allow me under your name to renew the old Theater
+Here, and present Pharaoh the Idolater
+Stubbornly, who drowned his last sobs
+And last tears in the red waves:
+Allow me to depict here the deliverance
+Of the children of Israel, the just seed of Abraham,
+So that by the brazen-faced Zoilus
+The flowers of my spring are not violated.
+This is why, most faithful Maecenas!
+That my Muse under the shadow of your wing
+Hides willingly. My Muse who goes,
+On the sacred summit of the Arabian Sinai,
+To push her forehead to the Sky up to the variegated clouds,
+Under the Echo of your name up to the horned stars:
+Receive then these verses, these verses that to your honor
+Truly deserve a more learned Singer.</p>
+<p>Of your Lordship the very affectionate
+I. V. V.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/1","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/3","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/24","className":"underline","children":24}],[" ","to"," ",["$","$L7",null,{"href":"/page/27","className":"underline","children":27}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Joost van den Vondel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Jean Michiels van Vaerlaer"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"A poetic tribute and expression of admiration"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1612"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"fr"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Joost van den Vondel writes a poetic letter to his dear friend Jean Michiels van Vaerlaer, praising the beauty of nature and the simple, pastoral life. He contrasts this with the chaos and vanity of city life and expresses a desire to honor Vaerlaer with his poetry."]}]]}]]}]]}]]}]

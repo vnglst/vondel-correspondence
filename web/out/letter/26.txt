@@ -1,0 +1,100 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","26","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","26","d"],{"children":["__PAGE__?{\"id\":\"26\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","26","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:Tae5,<h2>CORNELIS PLEMP AAN VONDEL</h2>
+<h3>± 1633.</h3>
+<p>„Si resonet vestris facundia tanta cathedris,<br>
+Nostris eloquii gloria quanta boat:<br>
+Attentis vobis simul ipse auditor adessem,<br>
+Auribus et vener verba diserta meis.”<br>
+Juste id ais: credo; tu saepe auditor adesses:<br>
+Nec tu, sed vestro multi alii e numero.</p>
+<p>Ast ego, si vestrae referant tritavita cathedrae<br>
+Robora, et antiqua his vox gravitate sonet,<br>
+Attentis vobis persaepe auditor adessem,<br>
+Auribus haesurus dicta profunda meis.<br>
+Eloquio validus non stat, sed pondere sermo;<br>
+Ut praeit haud phaleris, sed pede victor equis.<br>
+1633, Augustus.</p>
+<p>Irenopaegnium: ad Justum Vondelium.</p>
+<p>(Van dit honderden regels tellende „Schertsgedicht op den Vrede”, wordt hier het begin overgenomen:)</p>
+<p>Juste, cui nostrae semper placuere Camoenae;<br>
+Juste, mihi genius cuius et ipse placet;<br>
+Scribere quo rhythmos es promtus homoeoteleutos;<br>
+Quos quoque cum studio Grotius ipse legit;<br>
+De Pace scripsi, quod quid sit, nescio; nugas<br>
+Mitto tamen nugas (sic lubet) ecce, tibi.<br>
+Pridem etiam nugas misi, quos lector amabas:<br>
+Nempe tuae sapiunt ludicra nostra gulae,<br>
+Quid facies? solusne leges? an Pollio tecum;<br>
+Pollio, qui versus doctus et ipse facit?<br>
+An Constantino has apinas missurus es audax?<br>
+Non veto: quid tentes tu tamen ipse vide.</p>
+<p>Schertsdicht op de Vrede: Aan Joost van den Vondel.</p>
+<p>O Joost, U zijn mijne dichten steeds welgevallig geweest<br>
+En mij behaagt ook die aanleg van U,<br>
+Waardoor gij vaardig zijt in het schrijven van berijmde verzen<br>
+Die ook Grotius zelf met aandacht leest.<br>
+Ik heb iets geschreven over de Vrede; wat het beteekent, laat ik daar: prulversjes.<br>
+Maar kijk, toch zend ik U die prulletjes, omdat ik er plezier in heb.<br>
+Ook vroeger heb ik U zulke prulletjes gestuurd, en ge laast ze gaarne,<br>
+Mijn schertsende geschrijf viel in Uw smaak.<br>
+Wat zult ge nu doen? Zult ge ze alleen lezen? Of Pol met U?<br>
+Die ook zelf geleerd is en ook verzen maakt?<br>
+Zult gij de stoutheid hebben deze grappen ook aan Constantijn te zenden?<br>
+Ik verbied het U niet. Zie zelf wat ge begint.</p>
+<p>Daar Vrede in het Latijn vrouwelijk is, heeft de vertaler ook dit geslacht voor het Nederl. behouden.<br>
+Zie voor het geheel: Vondel-Museum, Elfde Verslag, 1924.</p>
+<h2>HUYGENS AAN HOOFT</h2>
+<h3>4 Maart 1634.</h3>
+<p>...Magh dese vreemdeling sooveel voordeels van sijn Nederlandsch kleedsel genieten, dat hij, door Amsteldam treckende, met U E. de Heeren Reaal, Barlaeus, Baeck, Vondelen of anderen, die ’t beter lusten en gebeuren moghe, kennis make, en voorts sijne reise op Alckmaer spoedighe, de ruijme snijder (in andermans leder), die hem uytreedde, sal der sich de meeste gunst af toemeten.</p>9:Ta9c,<h2>CORNELIS PLEMP TO VONDEL</h2>
+<h3>Around 1633</h3>
+<p>"If such eloquence resounds in your lectures,
+As much as the glory of speech echoes in ours:
+I would be there as an attentive listener,
+And my ears would cherish your eloquent words."
+You say this rightly: I believe you; you would often be a listener:
+Not just you, but many others from your group.</p>
+<p>But if your lectures reflect the strength of our ancestors,
+And the voice sounds with ancient gravity,
+I would often be an attentive listener,
+Hanging on to your profound words with my ears.
+It's not eloquence that stands strong, but the weight of the speech;
+Just as a horse wins not by decorations, but by its stride.
+1633, August.</p>
+<p>A playful poem: to Justus Vondelius.</p>
+<p>(From this hundreds-of-lines-long "Playful Poem on Peace," here is the beginning:)</p>
+<p>Justus, who has always liked our Muses;
+Justus, whose talent I also like;
+You are quick to write rhymed verses;
+Which even Grotius himself reads with interest;
+I wrote about Peace, what it means, I don't know; trifles.
+But look, I send you these trifles, because I enjoy it.
+I also sent you such trifles before, and you liked them:
+My playful writing was to your taste.
+What will you do now? Will you read them alone? Or with Pollio?
+Who is also learned and writes verses himself?
+Will you dare to send these jokes to Constantijn as well?
+I don't forbid you. See for yourself what you start.</p>
+<p>Playful Poem on Peace: To Joost van den Vondel.</p>
+<p>Oh Joost, you have always liked my poems
+And I also like your talent,
+Which makes you skilled in writing rhymed verses
+That even Grotius himself reads with attention.
+I wrote something about Peace; what it means, I leave aside: trifles.
+But look, I still send you these trifles, because I enjoy it.
+I also sent you such trifles before, and you liked them,
+My playful writing was to your taste.
+What will you do now? Will you read them alone? Or with Pol?
+Who is also learned and writes verses himself?
+Will you dare to send these jokes to Constantijn as well?
+I don't forbid you. See for yourself what you start.</p>
+<p>Since Peace is feminine in Latin, the translator has also kept this gender for Dutch.
+For the complete text, see: Vondel-Museum, Eleventh Report, 1924.</p>
+<h2>HUYGENS TO HOOFT</h2>
+<h3>March 4, 1634</h3>
+<p>...May this stranger enjoy so much benefit from his Dutch attire, that while passing through Amsterdam, he may get acquainted with Your Honor, the gentlemen Reaal, Barlaeus, Baeck, Vondel, or others who may prefer and allow it, and then quickly continue his journey to Alkmaar, where the generous tailor (in someone else's leather), who dressed him, will attribute the most favor to himself.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/25","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/27","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/78","className":"underline","children":78}],[" ","to"," ",["$","$L7",null,{"href":"/page/80","className":"underline","children":80}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Cornelis Plemp"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Joost van den Vondel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Sending a playful poem about peace"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1633"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],"Unknown"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"la"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Cornelis Plemp sends Joost van den Vondel a playful poem about peace, expressing admiration for Vondel's poetic skills and mentioning that even Grotius reads his verses. Plemp humorously questions whether Vondel will read the poem alone or share it with others like Pollio or Constantijn."]}]]}]]}]]}]]}]

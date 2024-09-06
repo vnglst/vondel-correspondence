@@ -1,0 +1,507 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","16","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","16","d"],{"children":["__PAGE__?{\"id\":\"16\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","16","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:T358a,<h2>TESSELSCHADE AAN VONDEL’).</h2>
+<h3>1630, Mei.</h3>
+<p>Antwoort op de Vraag van de Amsterdamsche Academie:</p>
+<p>De beste tong die stemmen smeede,
+zong gode loff, den menschen vreede.
+Die swygent meest haer deucht betoont,
+Is die met vier d’Apostels kroont.
+De snoodtste op aerde deed de menschen
+Nae Godts verborgen wysheyt wenschen.
+De booste sprack int Heemelryck:
+„myn macht zy d’hoogste macht gelyck!”
+In hun sticht Godt zyn heerschappyen,
+die, met het doen, ’t gelooff belyen.
+Schyn, als een Droch- en dwael-licht, lejdt
+Wie dat haer volght ter duysterhejt.
+De vrome zielen te belaegen,
+Kan Hollants zachte grondt niet dragen.
+de Roomsche geus het smekent blad
+tot Brussel, ondertekent had,
+Soo wel als d’ander; En versocht er
+’s lants vryheyt by, aen ’s Kajzars dochter.
+den muyter, die gerustheyt haet,
+loost altyd een geschickte staet.
+Daer d’ eene burger ’s anders mujren
+bestormt, die stadt en kan niet dujren.
+geen aerdsche God, off hy wordt by
+een Eedt verknocht: meer schuttery.
+Wat leeraers ook dien bant ontlitsen,
+die kerven ’t snoer der Zeeven flitsen.</p>
+<p>Elck zyn waerom.
+Adres: Aen St Joost vande Vondeln, woonende in de trouw in
+de Warmestrat, om te bestellen aen myn Heere, De Heere Hooft,
+Drossart tot muyden, port.</p>
+<h2>VONDEL AAN HOOFT’).</h2>
+<h3>1630, Mei.</h3>
+<p>Roskam aen den Heer Hoofd, Drost van Muyden.</p>
+<p>Hoe koomt, doorluchte Drost, dat elck van Godsdienst roemt,
+En onrecht en geweld met desen naem verbloemt?</p>
+<p>Als waer die saeck in schijn en tongeklanck gelegen:</p>
+<p>Of sou ’t geen Godsdienst sijn, rechtvaerdigheyd te plegen?
+Maer slincx en rechts te staen na allerhande goed?</p>
+<p>God voeren in den mond, de valscheyd in’t gemoed?</p>
+<p>De waerheyd greep wel eer die menschen by de slippen,
+En sprack: uw hart is verr’; ghy naecktme met de lippen.</p>
+<p>De waerheyd eyscht het hart, en niet soo seer ’t gebaer.</p>
+<p>Dit laeste sonder ’t eerst, dat maeckt een’ huychelaer;</p>
+<p>Die by een cierlijck graf seer aerdigh word geleecken:</p>
+<p>Vol rottings binnen, en van buyten schoon bestreecken.</p>
+<p>Soo was uw vader niet, die burger-vader, neen:</p>
+<p>Van binnen was hy juyst, gelijck hy buyten scheen.</p>
+<p>’k Geloof, men had geen’ gal in desen man gevonden,</p>
+<p>Indien, nadat de dood sijn leven had verslonden,</p>
+<p>Sijn lijck waer opgesneén. Hoe was hy soo gelijck</p>
+<p>Dien burgemeestren, die wel eertijdts ’t Roomsche rijck,</p>
+<p>Door hunne oprechtigheyd, opbouden van der aerde</p>
+<p>Ten top: doen d’ackerbou in achting was en waerde:</p>
+<p>Doen deege deeglijckheyd niet speelde, raep en schraep;</p>
+<p>En ’s vyands goud min gold dan een’ gebrade raep.</p>
+<p>Hoe heeft hem Amsteldam ervaeren wijs en simpel:</p>
+<p>Een hoofd vol kreucken, een geweten sonder rimpel.</p>
+<p>O beste bestevaér! wat waert ghy Holland nut,</p>
+<p>Een styl des raeds, doen ’t lijf van ’t stocxken werd gestut;</p>
+<p>Op dat ick ga voorby ons Catilinaes tyen:</p>
+<p>Doen ’t vaderland in last, door twist der burgeryen,</p>
+<p>Ghy ’t leven waert getroost te heyligen den staet:</p>
+<p>En doen uw hoofd gedoemt, door ’t hoofd van eygebaet,</p>
+<p>Ghy geen’ gedachten had van wijcken of van wancken.</p>
+<p>De wees en weduwen, de ballingen u dancken:</p>
+<p>Hoewelghe noyt om danck hebt, sonder onderscheyd,</p>
+<p>Bescheenen met den glans van uw’ goedaerdigheyd,</p>
+<p>Ondanckbre en danckbre, dienghe kont ten oorbaer strecken.</p>
+<p>O spiegel van de deugd! O voorbeeld sonder vlecken!</p>
+<p>Noyt sooptghe ’t bloet en mergh der schamele gemeent:</p>
+<p>Nocht stopte d’ooren voor haer rammelend gebeent.</p>
+<p>Wat lietghe uw’ soonen na, doen ’s levens licht wou neygen?</p>
+<p>Indien ’t gemeen u roept, besorgt het als uw eygen.</p>
+<p>Soo was uw wterste aém slechts waere klaere deughd;</p>
+<p>Daer ghy, vermaerde stad, uw’ kroon meed’ cieren meught.</p>
+<p>Soo ’t land uw vaders deughd soo wel had erven mogen,</p>
+<p>Als sijn’ gedachtenis, s’ had swaerder ruaym gewogen</p>
+<p>Dan duysend tonnen schats, en duysend, en noch bet:</p>
+<p>En ’k sagh de swaerigheén van onsen staet gered.</p>
+<p>Indien de Spanjaerd sagh het land van Hoofden blincken,</p>
+<p>Hoe sou sijn fiere moed hem in de schoenen sincken:</p>
+<p>Hoe sou hy vader Ney opwecken, door gebeén,</p>
+<p>Om met sijn’ tong dees’ scheur te neyen hecht aen een.
+Geen Duynkerck sou de zee met vlooten overheeren.
+Maetroos die roovers ras sou aersling klimmen leeren;</p>
+<p>En ’t laege Waterland doen kijcken door een’ koord</p>
+<p>Dien, die nu blindeling ons slingert over boord,</p>
+<p>En visschers vangt en spant, verwt zeeluy doods van vreesen:
+Soo datter een geschrey van weduwen en weesen</p>
+<p>Ten hoogen hemel rijst, wt dorpen en wt steén.</p>
+<p>Wat's d’oorsaeck? Vraeghtmen, wat? De gierigheyd alleen,
+Die ’t algemeen versuymt, en vordert slechts haer eygen:
+En sprack ick klaerdre spraeck, ick sorg sy soume dreygen
+Met breuck en boeten, of te levren aen den beul.</p>
+<p>Want waerheyd (dat’s al oud) vind nergens hey! nocht heul:
+Dies roemtmen hem voor wijs, die vinger op den mond leyd.
+O kon ick oock die konst: maer wat op ’s harten grond leyd
+Dat weltme na de keel: ick word te stijf geparst,</p>
+<p>En ’t werckt als nieuwe wijn, die tot de spon wtbarst.</p>
+<p>Soo ’t onvolmaecktheyd is, ’t magh tot volmaecktheyd dyen
+Van dees’ rampsalige en beroerelijcke tyen,</p>
+<p>Waer in elck grabbelt, tot sijns naesten achterdeel,</p>
+<p>Schrijft andren toe, en schuyft op hen de schuld van’t scheel.
+Waer Cato levend, die gestrenge Cato, trouwen,</p>
+<p>Hoe doncker sou hy, met een doncker paer winckbrouwen,
+Begrimmen oversijds de feylen onser eeu,</p>
+<p>En ringelooren den geringeloorden leeu;</p>
+<p>Die sich soo schendigh nu van rekels laet verbaffen.</p>
+<p>Hoe sou hy graeuwen: flux en past dit af te schaffen:</p>
+<p>Dat weder ingeset. Hier stuurman waer het roer,</p>
+<p>En let op ’t oud compas. Voort, voort, met desen loer,</p>
+<p>Die noyt te water ging: hy sal ons ’t spel verbrodden.</p>
+<p>En ghy, hou oogh in ’t seyl. Waer heen met dese vodden,
+Ghy lompe, plompe dief, die ’t scheepsvolck streckt tot last?
+t’ Hans grijp ick u by ’t oor, en spijcker ’t aen den mast.
+Waer Cato levend, wis, daer sou geen haer aen feylen,</p>
+<p>Of ’t ging als ’t plagh te gaen. Wat soumen lands beseylen:
+Daer nu de norsse nyd ons slapend seylt voorby,</p>
+<p>De loef afsteeckt, terwijlwe leggen in de ly,</p>
+<p>In vaer van schipbreuck, schier aen laeger wal vervallen.
+Het roer den meester mist, en daerom is ’t aen ’t mallen:
+En wilme’ op ’t dreygement niet letten van den nood,</p>
+<p>Soo bergh aen ’t naeste land uw leven in den boot.</p>
+<p>Doch ’k hoop een beter, van die gaerne ’t beste saegen,</p>
+<p>En sucht tot ’t vaderland in vroomen boesem draegen.</p>
+<p>De sulcke vindmen noch als parrelen aen strand.
+De schaersheyd maecktse dier. Indien maer ’t onverstand
+Soo weynige alsser sijn erkende in hunn’ waerdye,</p>
+<p>En wysere heeren liet begaen met heerschappye,</p>
+<p>Men vondter noch genoeg, die niet soo seer en staen</p>
+<p>Na heerschen, danse met ’s lands welstand sijn begaen,</p>
+<p>En wenschen tyd en sorg en moeyte hier in te schieten,</p>
+<p>En niet een’ penning voor hunn’ diensten te genieten:</p>
+<p>Dat sijn niet sulcke, daer ick eerst van heb geseyd,</p>
+<p>Wiens Godsdienst op de tong en op de lippen leyd:</p>
+<p>Maer in een vroom gemoed; waer uyt die deughden groeyen,
+Die Hollands welvaert eer soo heerlijck deeden bloeyen,</p>
+<p>In spijt des dwingelands. Wel, wilmer noch niet aen?</p>
+<p>Of rijm ick, dat een boer dit Duytsch niet kan verstaen?
+Neen seker, ’t is dat niet. ’t Sijn kostelijcke tyen.</p>
+<p>Het paerd vreet nacht en dagh. In een’ karros te ryen.</p>
+<p>Een’ Juffer met haer’ sleep. De kinders worden groot:</p>
+<p>Sy worden op bancket en bruyloften genood.</p>
+<p>Een nieuwe snof komt op met elcke nieuwe maene.</p>
+<p>De sluyers waeyen weyts, gelijck een ruytervaene.</p>
+<p>En eyschtmen meer bescheyds, men vraegh het Huygens soon,
+In ’t kostelijcke mal: die weet van top tot toon</p>
+<p>De pracht en sotte prael tot op een hayr t’ ontleden.</p>
+<p>Hier schort het. Overdaed stopt d’ooren voor de reden:
+En kromt des vromen recht: deelt ampten wt om loon:</p>
+<p>En stiert den vyand ’t geen op halsstraf is verboén:</p>
+<p>Luyckt ’t oogh voor sluyckerye, en onderkruypt de pachten:
+Besteelt het land aen waere, aen scheepstuygh, en aen vrachten:
+Neemt giften voor octroy: of maeckt den geldsack t’soeck:
+En eyschtmen rekening, men mist den sack en ’t boeck.
+Hoewel het menschlijck is dat sulcke saecken beuren:</p>
+<p>’t Heeft dickmael oock sijn’ reén. Dick’ raeckter meed te veuren,
+Die verr’ ten achtren was. Kort om, dit’s onse plaegh.</p>
+<p>’t Is, drijft den esel voort: gemeentenesel draegh:</p>
+<p>Het land heeft meel gebreck: dus breng den sack te molen.
+Het drijven is ons ampt: het pack is u bevolen.</p>
+<p>Vernoegh u, datghe sijt een vrygevochten beest:</p>
+<p>Is ’t na het lichaem niet, soo is het na den geest.</p>
+<p>Tot ’s lichaems lasten heeft de hemel u beschoren.</p>
+<p>Dit past u bet dan ons. Ghy sijt een slaef geboren.</p>
+<p>Best doet ghy ’t willighlijck van selven, dan door dwang.
+Dus raeckt het slaefsche dier, al hygende, op den gang.</p>
+<p>En sweet, en sucht, en kucht. De beenen hem begeven.</p>
+<p>Hy valt op beyde knien, als bad hy, laetme leven;
+En gigaeght heesch en schor. De drijvers stock is doof,
+En tout des ezels huyd, en swetst vast van ’t geloof.
+Hoe kan een Christenhart dees’ tiranny verkroppen!
+Ick raes van ongeduld. En sijnder dan geen’ stroppen
+Voor geld te krijgen, datmen ’t quaed niet af en schaft?
+En dat landsdievery tot noch blijft ongestraft?
+Of isser niet een beul in’t gantsche land te vinden?
+Men vondter eer wel drie, doen bittre beulsgesinden. &#x26;.
+En vraeghtmen wat ick seg? dat seg ick, en ’t is waer:
+Die ’t willens wederspreeckt, dat is een logenaer.
+Dus klaeght de galge, die lang ledigh heeft staen prijcken:
+Die lang geen’ krayen ’t oogh van groote dievelijcken
+Wtpicken sagh, en fel van raeven werd begraeut,
+Die heen en weér om aes wtvlogen heel benaeut.</p>
+<p>Of nu een’ snoode Harpy dit averechts wou duyen:
+Dat tegens d’Overheén ick ’t volleck op wil ruyen,
+Om tol en schot en lot te weygren aen den heer;
+Soo lochen ick ’t plat wt. Neen seker, dat sy veer.
+Gehoorsaemheyd die past een’ oprecht’ ingeseten:
+Den heer t’ ontfangen weér rechtvaerdigh wt te meeten;
+Gelijck die Haeghsche Bie vereert is met dien lof,
+Dat sy noyt honigh soogh wt ander lieden hof;
+Maer na haer’ eygen beemd, op onbesproke bloemen,
+Om nectar vloogh, wiens geur oprechte tongen roemen.
+Waer yeder soo van aerd, wat soumen metter tyd
+Het arrem eselkijn al lasten maecken quijt?
+Hoe sou ’t aenwassend juck ontwassen met den jaeren?
+Wat wordter nu gespilt? wat soumen dan bespaeren?
+Men had, in tijd van nood, een’ schatkist sonder tal.
+Maer nu is ’t Muysevreughd, de kat sit in de val.</p>
+<p>’k Heb, o doorluchtigh Hoofd der Hollandsche Poéten,
+Een’ kneppel onder een’ hoop hoenderen gesmeeten:
+’k Heb weetens niemand in ’t bysonder aengerand;
+Misschien wie ’k trof, tot nut van ons belegert land:
+’k Heb aen uw vaders krans al meede een blad gevlochten,
+En noch een’ siel geroemt, wiens deughden elck verknochten.</p>
+<p>Dit nam sijn’ oirsprong niet wt vleylusts ydelheén,
+Der dichtren erfgebreck: maer wt een’ rype reén.</p>
+<p>Ick wenschte, mijn’ copy niet scheelde van het leven;
+Soo sou, als ’t aenschijn u de schilder heeft gegeven,
+’s Mans deughdige ommetreck hier sweven in de siel;
+Die stand hiel ongebuckt, doen ’t dor gebeente viel.
+Harpoen, aen Jonckheer Landeslot, Heer van Uryburgh.</p>
+<p>Ick heb, heer Landeslot, doorreysend uw gebied,
+Daer menighmael vernacht, en veel van Godefried,
+Den preker van uw vleck, de boeren hooren roemen,
+Wiens lof sy met geen’ kunst behoefden te verbloemen.
+Wie vond in deeghlijckheyd oyt sijns gelijcken meer?
+Gode offerde hy sijn’ dienst’ sijn’ trou aen sijn’ landsheer,
+En bragt dat woeste volck tot deughdige bekeering,
+Door voorgang eer dan door sijn’ ongetoyde leering.
+Sijn woord was eveneens als een gesegend saed.
+Hy was der sielen sout. Noyt moeyde hy sich met staet
+Of weerlijcke heerschappy. Het licht blonck wt sijn leven.
+Al wat de bybel leert stond in sijn hart geschreven:
+Ja sijn godvruchtigh hart, dat was der deughden kerck.
+Wat drempel hy betrad, daer bleef een heyligh merck.
+Sijn mond was troostelijck den aengevochten bedde.
+Wat onlust reesser, dien hy niet met wijsheyd redde?
+Baldadigheyd nam af, soo ras hy trad op stoel,
+Gereghtigheyd die groeyde, en pleyters werden koel.
+De kroegen stonden leég. Geen mes werd wtgetrocken.
+d’Opreghtigheyd des mans klonck luyder als de klocken.
+Hy was vernoeght in ’t kleen, gewilt by arm en rijck,
+En stondse bey ten dienst. Sy golden hem gelyck.
+Men sagh hem selden aen der rijcke lieden disschen:
+Wel moght hy wit sien, maer vermyde d’argernissen.
+Soo lang sijn leven duurde hing ’s vollecx hart aen God,
+En ’t was gehoorsaem sijnen vryheer Landeslot.</p>
+<p>Hoe wenschelijck sou ’t sijn voor landen ende steden,
+Indienmen nu ’t geloof niet na spitsvondigheden,
+Die luttel stichten, ging waardeeren al te bot,
+(Verkeertheyd is ’t van ’t minst te maecken ’t hoogste lot)
+Maer na’et beleven: daer soo veel is aen gelegen,
+Dat niemand sonder dit kan erven Christus segen.
+Gewis had Godefried de waerheyd soo gevat,
+En hierom woeckerde hy met yver om dien schat.
+’t Getal dat socht hy min, met bidden en met wenschen,
+Als ’</p>9:T32be,<h2>TESSELSCHADE TO VONDEL</h2>
+<h3>May 1630</h3>
+<p>Response to the Question from the Amsterdam Academy:</p>
+<p>The best tongue that crafts voices
+Sang praise to God and peace to men.
+Those who mostly show their virtue by silence
+Are crowned with the four Apostles.
+The wickedest on earth made people
+Wish for God's hidden wisdom.
+The most evil spoke in the Heavenly Kingdom:
+"My power shall be equal to the highest power!"
+In their foundation, God establishes His dominions,
+Those who, with deeds, profess faith.
+Appearance, like a deceptive and misleading light, leads
+Those who follow it into darkness.
+Holland's soft ground cannot bear
+To attack the pious souls.
+The Roman beggar signed the petition
+To Brussels, as well as the others;
+And requested the country's freedom from the Emperor's daughter.
+The mutineer, who hates peace,
+Always leaves a suitable state.
+Where one citizen besieges another's walls,
+That city cannot endure.
+No earthly God, unless bound by an oath:
+More militia.
+Whatever teachers break that bond,
+They cut the cord of the Seven Flashes.</p>
+<p>Everyone has their reason.
+Address: To St. Joost of Vondel, living in the faith in
+Warm Street, to be delivered to my Lord, Lord Hooft,
+Bailiff of Muiden, port.</p>
+<h2>VONDEL TO HOOFT</h2>
+<h3>May 1630</h3>
+<p>Roskam to Lord Hooft, Bailiff of Muiden.</p>
+<p>How is it, illustrious Bailiff, that everyone boasts of Religion,
+And masks injustice and violence with this name?</p>
+<p>As if the matter lay in appearance and tongue-clatter:</p>
+<p>Or would it not be Religion to practice justice?
+But to stand crookedly and rightly for all kinds of goods?</p>
+<p>To invoke God with the mouth, falsehood in the heart?</p>
+<p>Truth once grabbed people by the hems,
+And said: your heart is far; you honor me with your lips.</p>
+<p>Truth demands the heart, and not so much the gesture.</p>
+<p>The latter without the former makes a hypocrite;</p>
+<p>Who is like a beautifully adorned grave:</p>
+<p>Full of rot inside, and beautifully painted outside.</p>
+<p>Your father was not like that, that citizen-father, no:</p>
+<p>Inside he was just, as he appeared outside.</p>
+<p>I believe, no gall was found in this man,</p>
+<p>If, after death had devoured his life,</p>
+<p>His body had been dissected. How he resembled</p>
+<p>Those mayors, who once upheld the Roman Empire,</p>
+<p>Through their integrity, from the earth</p>
+<p>To the top: when agriculture was in esteem and value:</p>
+<p>When virtue did not play, grab and scrape;</p>
+<p>And the enemy's gold was worth less than a roasted turnip.</p>
+<p>How Amsterdam experienced him wise and simple:</p>
+<p>A head full of wrinkles, a conscience without a wrinkle.</p>
+<p>O best grandfather! how useful you were to Holland,</p>
+<p>A pillar of the council, when the body was supported by the stick;</p>
+<p>So that I pass by our Catiline's times:</p>
+<p>When the fatherland was in trouble, through the citizens' strife,</p>
+<p>You were willing to sacrifice your life for the state:</p>
+<p>And when your head was condemned, by the head of self-interest,</p>
+<p>You had no thoughts of retreating or wavering.</p>
+<p>The orphans and widows, the exiles thank you:</p>
+<p>Although you never sought thanks, without distinction,</p>
+<p>Shining with the glow of your goodness,</p>
+<p>Ungrateful and grateful, you could benefit.</p>
+<p>O mirror of virtue! O example without blemish!</p>
+<p>You never drank the blood and marrow of the poor community:</p>
+<p>Nor closed your ears to their rattling bones.</p>
+<p>What did you leave your sons, when life's light wanted to decline?</p>
+<p>If the community calls you, take care of it as your own.</p>
+<p>So your last breath was pure virtue;</p>
+<p>With which you, famous city, could adorn your crown.</p>
+<p>If the country had inherited your father's virtue as well,</p>
+<p>As his memory, it would have weighed heavier</p>
+<p>Than a thousand tons of treasure, and a thousand, and even more:</p>
+<p>And I saw the difficulties of our state saved.</p>
+<p>If the Spaniard saw the land of Hoofden shining,</p>
+<p>How his proud courage would sink into his shoes:</p>
+<p>How he would awaken Father Ney, through prayer,</p>
+<p>To sew this tear tightly together with his tongue.
+No Dunkirk would dominate the sea with fleets.
+The sailor would quickly teach those robbers to climb the yard;</p>
+<p>And make the low Waterland look through a rope</p>
+<p>Those who now blindly throw us overboard,</p>
+<p>And catch and bind fishermen, dyeing sailors with fear:
+So that a cry of widows and orphans</p>
+<p>Rises to the high heaven, from villages and stones.</p>
+<p>What's the cause? People ask, what? Greed alone,
+Which neglects the common good, and only advances its own:
+And if I spoke more clearly, I fear they would threaten
+With breach and fines, or deliver me to the executioner.</p>
+<p>For truth (that's old) finds nowhere a haven or help:
+Therefore, he is praised as wise, who lays a finger on his mouth.
+Oh, if I could also master that art: but what lies in the heart
+Wells up to the throat: I am pressed too tightly,</p>
+<p>And it works like new wine, which bursts out of the bung.</p>
+<p>If it is imperfection, it may serve as perfection
+Of these miserable and turbulent times,</p>
+<p>Where everyone grabs, to his neighbor's detriment,</p>
+<p>Writes to others, and shifts the blame to them.
+If Cato were alive, that strict Cato, truly,</p>
+<p>How darkly he would frown, with dark eyebrows,</p>
+<p>Grimly on both sides at the faults of our age,</p>
+<p>And scold the scolded lion;</p>
+<p>Who now so disgracefully lets himself be barked at by curs.</p>
+<p>How he would growl: quickly and properly remove this:</p>
+<p>That reinstated. Here the helmsman was the rudder,</p>
+<p>And paid attention to the old compass. Forward, forward, with this course,</p>
+<p>Who never went to sea: he will spoil the game for us.</p>
+<p>And you, keep an eye on the sail. Where to with these rags,
+You clumsy, clumsy thief, who burdens the crew?
+Hans, I grab you by the ear, and nail it to the mast.
+If Cato were alive, surely, there would be no hair missing,</p>
+<p>Or it would go as it used to go. How would the country sail:
+Where now the grumpy envy sails past us sleeping,</p>
+<p>Takes the windward side, while we lie in the lee,</p>
+<p>In danger of shipwreck, almost fallen to the lower shore.
+The rudder misses the master, and therefore it is in chaos:
+And if we do not heed the threat of necessity,</p>
+<p>Then land your life in the nearest land in the boat.</p>
+<p>Yet I hope for better, from those who gladly seek the best,</p>
+<p>And sigh for the fatherland in a pious bosom.</p>
+<p>Such are still found like pearls on the shore.
+Scarcity makes them precious. If only the ignorance
+Recognized as few as there are in their value,</p>
+<p>And let wiser lords govern with authority,</p>
+<p>One would still find enough, who do not so much seek</p>
+<p>To rule, but are concerned with the country's welfare,</p>
+<p>And wish to invest time and care and effort here,</p>
+<p>And not enjoy a penny for their services:</p>
+<p>These are not such, as I first said,</p>
+<p>Whose Religion lies on the tongue and lips:</p>
+<p>But in a pious heart; from which virtues grow,</p>
+<p>That once made Holland's prosperity bloom so gloriously,</p>
+<p>Despite the tyrant. Well, if you still do not agree?</p>
+<p>Or do I rhyme, that a farmer cannot understand this German?
+No, certainly, it is not that. These are precious times.</p>
+<p>The horse eats night and day. To ride in a carriage.</p>
+<p>A lady with her train. The children grow up:</p>
+<p>They are invited to banquets and weddings.</p>
+<p>A new fashion comes up with every new moon.</p>
+<p>The veils wave wide, like a rider's banner.</p>
+<p>And if more discretion is required, ask Huygens' son,
+In the precious folly: he knows from top to bottom</p>
+<p>To dissect the splendor and foolish display to a hair.</p>
+<p>Here it lacks. Excess stops the ears to reason:
+And bends the righteous's right: distributes offices for reward:</p>
+<p>And sends the enemy what is forbidden on pain of death:</p>
+<p>Closes the eye to smuggling, and undercuts the leases:
+Steals from the country in goods, in ship's gear, and in cargo:
+Takes bribes for charters: or makes the money bag the goal:
+And if one asks for an account, the bag and the book are missing.
+Although it is human that such things happen:</p>
+<p>It often has its reason. Often the judge was too far behind,
+Who was far behind. In short, this is our plague.</p>
+<p>It is, drive the donkey forward: common donkey carry:</p>
+<p>The country lacks flour: so bring the sack to the mill.
+Driving is our job: the load is entrusted to you.</p>
+<p>Be content that you are a freed beast:</p>
+<p>If not in body, then in spirit.</p>
+<p>To the body's burdens, heaven has destined you.</p>
+<p>This suits you better than us. You are born a slave.</p>
+<p>It is best to do it willingly yourself, than by force.
+Thus the slavish animal, panting, goes on the way.</p>
+<p>And sweats, and sighs, and coughs. The legs give way.</p>
+<p>He falls on both knees, as if he were praying, let me live;
+And groans hoarse and hoarse. The driver's stick is deaf,
+And the donkey's skin, and swears firmly by faith.
+How can a Christian heart endure this tyranny!
+I rage with impatience. And are there no ropes
+To be bought for money, that the evil is not abolished?
+And that the country's thievery remains unpunished?
+Or is there not an executioner to be found in the whole country?
+One used to find three, when bitter executioners. &#x26;.
+And if one asks what I say? I say it, and it is true:
+Who willingly contradicts it, is a liar.
+Thus complains the gallows, which has long stood empty:
+Which has long not seen crows pick the eyes of great thieves,
+And was buried by ravens,
+Who flew back and forth for prey very anxiously.</p>
+<p>If now a wicked Harpy wanted to turn this around:
+That against the authorities I want to incite the people,
+To refuse toll and tax and lot to the lord;
+I would flatly deny it. No certainly, that is far.
+Obedience suits an upright citizen:
+To receive the lord again justly;
+As the Hague Bee is honored with that praise,
+That it never sucked honey from another's court;
+But flew to its own meadow, on unblemished flowers,
+To nectar, whose scent upright tongues praise.
+If everyone were so by nature, what would one with time
+Make all burdens bearable for the poor donkey?
+How would the growing yoke be shed with the years?
+What is now wasted? what would one then save?
+One had, in time of need, a treasure chest without number.
+But now it is Mouse's joy, the cat sits in the trap.</p>
+<p>I have, o illustrious Head of Dutch Poets,
+Thrown a club among a heap of chickens:
+I have knowingly attacked no one in particular;
+Perhaps whom I hit, for the benefit of our besieged land:
+I have woven a leaf into your father's wreath,
+And praised yet another soul, whose virtues everyone admired.</p>
+<p>This did not originate from the vanity of flattery,
+The poet's hereditary defect: but from a ripe reason.</p>
+<p>I wished, my copy did not differ from life;
+So would, as the appearance the painter has given you,
+The virtuous outline here hover in the soul;
+Which stood unbent, when the dry bones fell.
+Harpoon, to Jonker Lancelot, Lord of Uryburgh.</p>
+<p>I have, Lord Lancelot, passing through your domain,
+Where I often stayed, and much of Godfried,
+The preacher of your village, heard the farmers praise,
+Whose praise they did not need to embellish with art.
+Who ever found his equal in virtue?
+He offered God his service, his loyalty to his lord,
+And brought that wild people to virtuous conversion,
+By example rather than by his unadorned teaching.
+His word was like a blessed seed.
+He was the salt of souls. He never meddled with state
+Or worldly dominion. The light shone from his life.
+All that the Bible teaches was written in his heart:
+Yes, his devout heart, that was the church of virtues.
+Whatever threshold he crossed, there remained a holy mark.
+His mouth was comforting to the afflicted bed.
+What unrest arose, which he did not resolve with wisdom?
+Wickedness decreased, as soon as he stepped on the chair,
+Justice grew, and pleaders cooled.
+The taverns stood empty. No knife was drawn.
+The man's integrity rang louder than the bells.
+He was content in the small, beloved by poor and rich,
+And served them both. They valued him equally.
+He was seldom seen at the rich people's tables:
+He might see white, but avoided the scandals.
+As long as his life lasted, the people's heart clung to God,
+And it was obedient to its free lord Lancelot.</p>
+<p>How desirable it would be for countries and cities,
+If one did not now value faith by sophistries,
+Which build little, too bluntly,
+(It is wrong to make the least the highest lot)
+But by living: which is so important,
+That no one can inherit Christ's blessing without it.
+Surely Godfried had grasped the truth so,
+And therefore he worked with zeal for that treasure.
+The number he sought less, with prayer and wishes,
+As '</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/15","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/17","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/53","className":"underline","children":53}],[" ","to"," ",["$","$L7",null,{"href":"/page/63","className":"underline","children":63}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Tesselschade"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Joost van den Vondel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Response to the question from the Amsterdam Academy"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1630"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Amsterdam"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=52.3676,4.9041","target":"_blank","rel":"noopener noreferrer","children":"52.3676, 4.9041"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Tesselschade responds to a question from the Amsterdam Academy, discussing themes of virtue, truth, and the misuse of religion for personal gain. The letter also reflects on the moral character of past leaders and the current state of society, urging for integrity and genuine faith."]}]]}]]}]]}]]}]

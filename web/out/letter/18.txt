@@ -1,0 +1,83 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+4:["id","18","d"]
+0:["dMGg-jnaGauFET2C9MAUG",[[["",{"children":["letter",{"children":[["id","18","d"],{"children":["__PAGE__?{\"id\":\"18\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["letter",{"children":[["id","18","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","letter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_8ee327","children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-slate-900 text-white text-center p-4","children":["Made with GPT-4o by ",["$","a",null,{"href":"https://koenvangilst.nl","children":"Koen van Gilst"}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d47ca21160610f45.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L6"]]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Letters from Vondel"}],["$","meta","3",{"name":"description","content":"A collection of letters from Joost van den Vondel. Edited with OCR and GPT-4o."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+7:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","565","static/chunks/app/letter/%5Bid%5D/page-4849cb105a23f22a.js"],""]
+8:Td83,<h2>HOOFT AAN BAECK</h2>
+<h3>3 Juni 1630.</h3>
+<p>... Onder de stukken rakende Schout Willem Bardes, zal
+U E. vinden twee gedichten van Coornhart, die nae d’eenvoudig-
+heit onzer taele te dien tijde, niet te verwerpen, maer geestigh,
+en, om der historie wille, bewaerens waert zijn. U E. gelieve die te toonen aen Sr. Van den Vondele, op dat hy ’t scherp der tongen van die eeuwe, tegens dat van de jegenwoordighe, moghe overweghen, ende zien hoe onze stadt van heden nocht gisteren niet begonnen heeft der partijdigheit onderwaerigh te zijn. Ick vind my bedrooghen in de meeninge, dat de H. van Schaegen den schrijver van den Harpoen grooten dank zoud weeten, ende verstae, dat Zijne Ed. met ernst verklaert, zy zoude hem, wie hij waere, doen gevoelen dat haer leedt is, voor alle de werelt uitgekreten te worden, als een persoon, die zijnen lust naeme in ’t</p>
+<p>aan Vondel heeft doen zenden. We kennen dezen Laurens Jacobsz „In den gouden reael” als de dichter van een bundel: „Refereynen, Balades, Epitafien, Historialen en andere Liedekens”, waarvan het handschrift wordt bewaard in de Universiteitsbiblotheek te Gent. Het zijn meerendeels zeer scherpe politieke referynen tegen de Katholieke regeering van Amsterdam.</p>
+<p>Uit één schrijf ik de eerste strofen gedeeltelijk over:</p>
+<p>O Amsterdam, moordaedich, voll bloetgierrige honden,
+Schout, Scheepens, Burgemeysters en Raeden van deezen,
+bloetdorstige Papisten, sijt ghy noch niet sat bevonden?
+Es uwen crop noch niet vol van weduwen en weezen?
+Der armmen bloet, dat ghy gestort hebt, es gereezen
+in den heemel en es costel voor den Heerre,
+roepende, als wy in Apocalipsi leezen:
+„Wanneer sult Ghy wreecken ons onnoosel bloet teerre?”
+En hebt ghy noch geen vreeze, al klopt Godt van veerre,
+En bederft U in den gront met lancsaemer hant? Enz,</p>
+<p>Hoewel ghy u_borgers met schelmen en dieven,
+moordenaers, hoerreerders en vuylle hoerren quaet
+haer valssche getuychennisse, valssche seegels en brieven
+tierannich hebt omgebrocht — 'tfy u dees daet! —
+weduwen ep weezen gemaect door singulieren haet;
+meneedich, trouweloos, en bont-breckich gewerdden sijt,
+overtreedende u zeegel, gegeven by uwen vollen Raet
+en Commissarissen van den Hove, u hulpers in dien tijt,
+daerdeur ghy u cooplieden uutter stadt werdden quyt;
+want ele vreesden te woonnen by sulcke tirannen. Enz.</p>
+<p>Elke strofe eindigt met het refrein:
+„’t Es beter ten halven gewendt, als heel onteert.”</p>
+<p>Liefde vermacht al.
+fecit Anno 1574, den 20 December.</p>
+<p>Zie over de gedichten van Laurens Jacobsz. Reael: Dr. Joh. C. Breen, „Een tweetal gedichten van Laurens Jacobszoon Reael”. Amsterdamsch Jaarboekje, 1897, bl. 48.</p>
+<p>Dezelfde: „Laurens Jacobsz. Reael”. Bijdragen voor Vaderl. Geschiedenis en Oudheidkunde; 3e Reeks, Dl. 8.</p>
+<p>Dezelfde: „De Kinderleer” van L. Jz. Reael. Archief voor Nederl. Kerkgeschiedenis. Dl. VI, afl. 2.</p>
+<p>Dezelfde: „Stichtelijke liederen van L. Jz. Reael”. Als voren, Dl, VI, afl. 4.</p>
+<p>De verzen, die Hooft bedoelde, moeten aantoonen, dat de dichters toen even scherp van tong waren als in Vondels tijd en dat Amsterdam reeds lang
+Van den Hujze te Mujden,</p>
+<h3>den 3en Junio, 1630.</h3>
+<p>Alhier ontfang ick U E. aengenaemen van heden, met de loopmaeren ende Medalie, enz. Ick en kan dien stookebranden ter wederzijden niet vergeven hunne reukelooze dulligheit, daer niet dan vererghering onzer quacle ujt komen kan.</p>9:Tc9d,<h2>HOOFT TO BAECK</h2>
+<h3>June 3, 1630</h3>
+<p>... Among the documents concerning Sheriff Willem Bardes, you will find two poems by Coornhart. Despite the simplicity of our language at that time, they are not to be dismissed. They are witty and, for the sake of history, worth preserving. Please show them to Mr. Van den Vondel so that he can compare the sharpness of the tongues of that era with those of the present. This will show how our city has not just recently become embroiled in partisanship. I was mistaken in thinking that Mr. van Schaegen would be grateful to the author of "The Harpoon." I understand that His Honor has seriously declared that he would make the author, whoever he may be, feel his displeasure for being publicly denounced as someone who takes pleasure in...</p>
+<p>We know this Laurens Jacobsz "In the Golden Real" as the poet of a collection: "Refrains, Ballads, Epitaphs, Historical and Other Songs," whose manuscript is kept in the University Library in Ghent. Most of them are very sharp political refrains against the Catholic government of Amsterdam.</p>
+<p>From one, I partially transcribe the first stanzas:</p>
+<p>O Amsterdam, murderous, full of bloodthirsty dogs,
+Sheriff, Aldermen, Mayors, and Councillors of these,
+bloodthirsty Papists, are you not yet satisfied?
+Is your belly not yet full of widows and orphans?
+The blood of the poor that you have shed has risen
+to heaven and is precious to the Lord,
+crying out, as we read in Revelation:
+"When will You avenge our innocent blood?"
+And do you not fear, even if God knocks from afar,
+and destroys you to the core with a slow hand? Etc.</p>
+<p>Although you, citizens, with rogues and thieves,
+murderers, adulterers, and vile whores,
+have tyrannically destroyed their false testimonies, false seals, and letters
+— this deed is yours! —
+made widows and orphans through singular hatred;
+perjured, faithless, and treacherous you have become,
+violating your seal, given by your full Council
+and Commissioners of the Court, your helpers at that time,
+thereby driving your merchants out of the city;
+for they feared to live among such tyrants. Etc.</p>
+<p>Each stanza ends with the refrain:
+"It is better to turn back halfway than to be completely dishonored."</p>
+<p>Love conquers all.
+Written in the year 1574, December 20.</p>
+<p>See about the poems of Laurens Jacobsz. Reael: Dr. Joh. C. Breen, "A couple of poems by Laurens Jacobszoon Reael." Amsterdam Yearbook, 1897, p. 48.</p>
+<p>The same: "Laurens Jacobsz. Reael." Contributions to National History and Antiquities; 3rd Series, Vol. 8.</p>
+<p>The same: "The Children's Doctrine" by L. Jz. Reael. Archive for Dutch Church History. Vol. VI, issue 2.</p>
+<p>The same: "Edifying songs by L. Jz. Reael." As above, Vol. VI, issue 4.</p>
+<p>The verses that Hooft referred to must show that the poets of that time were just as sharp-tongued as in Vondel's time and that Amsterdam had long been...</p>
+<p>From the House at Muiden,</p>
+<h3>June 3, 1630</h3>
+<p>Here I receive your pleasant letter of today, with the news and the Medal, etc. I cannot forgive those incendiaries on either side for their senseless foolishness, from which nothing but worsening of our troubles can come.</p>2:["$","main",null,{"className":"flex min-h-screen flex-col items-center gap-4 p-6 lg:p-24","children":[["$","nav",null,{"className":"flex flex-wrap gap-x-2 lg:grid grid-cols-1 lg:grid-cols-2 w-full gap-y-1 italic bg-slate-300 p-4 text-sm","children":[["$","div",null,{"className":"lg:flex mr-4 contents","children":[["$","$L7",null,{"href":"/","children":"← Home"}],["$","$L7",null,{"href":"/letter/17","className":"ml-auto","children":"← Previous"}]]}],["$","div",null,{"className":" lg:flex pl-4 contents","children":[["$","$L7",null,{"href":"/letter/19","children":"Next →"}],["$","span",null,{"className":"text-sm ml-auto","children":["Page"," ",["$","$L7",null,{"href":"/page/65","className":"underline","children":65}],[" ","to"," ",["$","$L7",null,{"href":"/page/67","className":"underline","children":67}]]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"ORIGINAL"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-lg py-4","children":"TRANSLATION"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$9"}}]]}],["$","div",null,{"className":"bg-gray-200 p-4 mt-8","children":[["$","h3",null,{"className":"mb-4 text-lg font-bold","children":"Metadata"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Sender: "}],"Pieter Corneliszoon Hooft"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Recipient: "}],"Unspecified, but likely a colleague or associate referred to as 'U E.'"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Subject: "}],"Discussion of historical poems and political commentary"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Send Date: "}],"1630"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Location: "}],"Muiden"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation: "}],["$","a",null,{"className":"underline","href":"https://www.google.com/maps/search/?api=1&query=52.3342,5.0711","target":"_blank","rel":"noopener noreferrer","children":"52.3342, 5.0711"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"Language: "}],"nl"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Summary: "}],"Pieter Corneliszoon Hooft discusses historical poems by Coornhart and Laurens Jacobsz. Reael, emphasizing their value and sharp political commentary. He also mentions the ongoing political strife and expresses frustration with the lack of resolution."]}]]}]]}]]}]]}]
