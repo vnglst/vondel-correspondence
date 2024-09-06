@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Proza_Libre } from "next/font/google";
+import Head from "next/head";
 import "./globals.css";
 
 const inter = Proza_Libre({ weight: ["400", "500", "600", "700", "800"], subsets: ["latin"] });
@@ -16,6 +17,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Head>
+        <script
+          defer
+          data-domain="vondel.koenvangilst.nl"
+          src="https://plausible.koenvangilst.nl/js/script.js"
+        ></script>
+      </Head>
       <body className={inter.className}>
         {children}
         <footer className="bg-slate-900 text-white text-center p-4">
